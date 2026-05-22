@@ -1,0 +1,6 @@
+{
+  "name": "Islamic Dua API",
+  "description": "A complete, mobile-friendly Islamic Dua REST API with documentation, live sandbox queries, search, and full CORS support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
