@@ -4,6 +4,8 @@
     "name_arabic": "الله",
     "name_bengali": "আল্লাহ",
     "meaning_bn": "আল্লাহ",
+    "explanation_bn": "সর্বশক্তিমান স্রষ্টা এবং সর্বোচ্চ পালনকর্তা যিনি সমস্ত বিষয়ে সর্বজ্ঞ এবং সর্বক্ষমতাসম্পন্ন।",
+    "virtue_bn": "এই নাম দিয়ে দোয়া করলে ���কল প্রয়োজন পূরণ হয় এবং সকল বিপদ থেকে রক্ষা পাওয়া যায়।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/allah.mp3"
   },
   {
@@ -11,20 +13,26 @@
     "name_arabic": "الرَّحْمَنُ",
     "name_bengali": "আর রাহমান",
     "meaning_bn": "পরম দয়ালু",
+    "explanation_bn": "যিনি তার অসীম দয়া এবং করুণা দিয়ে সকল সৃষ্টিকে রিযিক প্রদান করেন।",
+    "virtue_bn": "এই নামের মাধ্যমে দোয়া করলে রহমত ও দয়া পাওয়া যায়।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/rahman.mp3"
   },
   {
     "number": 3,
     "name_arabic": "الرَّحِيمُ",
     "name_bengali": "আর-রাহীম",
-    "meaning_bn": "অতি দয়ালু",
+    "meaning_bn": "অতি দয়ালু",
+    "explanation_bn": "যিনি তার বান্দাদের প্রতি ক্রমাগত দয়া এবং সহানুভূতি প্রদর্শন করেন।",
+    "virtue_bn": "এই নাম বিশেষভাবে পাপীদের জন্য কার্যকর এবং তাওবা কবুলের জন্য।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/rahim.mp3"
   },
   {
     "number": 4,
-    "name_arabic": "الْمَلِকُ",
+    "name_arabic": "الْمَلِكُ",
     "name_bengali": "আল-মালিক",
     "meaning_bn": "অধিপতি",
+    "explanation_bn": "যিনি সম্পূর্ণ প্রভুত্ব এবং মালিকানা রাখেন সকল কিছুর উপর।",
+    "virtue_bn": "এই নাম দিয়ে দোয়া করলে নিরাপত্তা এবং সুরক্ষা পাওয়া যায়।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/malik.mp3"
   },
   {
@@ -32,6 +40,8 @@
     "name_arabic": "الْقُدُّوسُ",
     "name_bengali": "আল-কুদ্দুস",
     "meaning_bn": "অতি পবিত্র",
+    "explanation_bn": "যিনি সকল ত্রুটি, দোষ এবং অপূর্ণতা থেকে সম্পূর্ণ পবিত্র।",
+    "virtue_bn": "এই নামের সাথে তাসবিহ পাঠ করলে আত্মা পবিত্রতা লাভ করে।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/quddus.mp3"
   },
   {
@@ -39,6 +49,8 @@
     "name_arabic": "السَّلَامُ",
     "name_bengali": "আস-সালাম",
     "meaning_bn": "শান্তি-দানকারী",
+    "explanation_bn": "যিনি সকল প্রকার ভয় এবং আশঙ্কা থেকে শান্তি প্রদান করেন।",
+    "virtue_bn": "এই নামের মাধ্যমে দোয়া করলে মানসিক শান্তি এবং নিরাপত্তা পাওয়া যায়।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/salam.mp3"
   },
   {
@@ -46,6 +58,8 @@
     "name_arabic": "الْمُؤْمِنُ",
     "name_bengali": "আল-মু'মিন",
     "meaning_bn": "নিরাপত্তা দানকারী",
+    "explanation_bn": "যিনি বিশ্বাসযোগ্য এবং তার বান্দাদের নিরাপত্তার গ্যারান্টি দেন।",
+    "virtue_bn": "এই নাম বিশ্বাস এবং আস্থা বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/mumin.mp3"
   },
   {
@@ -53,6 +67,8 @@
     "name_arabic": "الْمُهَيْمِنُ",
     "name_bengali": "আল-মুহাইমিন",
     "meaning_bn": "রক্ষক",
+    "explanation_bn": "যিনি সকল বিষয় তদারকি এবং নিয়ন্ত্রণ করেন এবং তার বান্দাদের রক্ষা করেন।",
+    "virtue_bn": "এই নাম শারীরিক এবং আধ্যাত্মিক সুরক্ষার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muhaymin.mp3"
   },
   {
@@ -60,6 +76,8 @@
     "name_arabic": "الْعَزِيزُ",
     "name_bengali": "আল-আ'জীজ",
     "meaning_bn": "পরাক্রমশালী",
+    "explanation_bn": "যিনি অপরাজেয় শক্তি এবং মর্যাদার অধিকারী এবং কোনো শক্তি তার সামর্থ্য রাখে না।",
+    "virtue_bn": "এই নাম শক্তি এবং সাহস বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/aziz.mp3"
   },
   {
@@ -67,6 +85,8 @@
     "name_arabic": "الْجَبَّارُ",
     "name_bengali": "আল-জাব্বার",
     "meaning_bn": "দুর্নিবার",
+    "explanation_bn": "যিনি অত্যাচারীদের জোর করে পরাজিত করেন এবং সকল শক্তির উপর প্রভুত্ব রাখেন।",
+    "virtue_bn": "এই নাম দুর্বলতা থেকে মুক্তি এবং ন্যায় বিচারের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/jabbar.mp3"
   },
   {
@@ -74,6 +94,8 @@
     "name_arabic": "الْمُتَكَبِّرُ",
     "name_bengali": "আল-মুতাকাব্বিইর",
     "meaning_bn": "সর্বশ্রেষ্ঠ",
+    "explanation_bn": "যিনি সর্বোচ্চ মর্যাদা এবং গর্ব রাখেন এবং তার চেয়ে কেউ বড় নয়।",
+    "virtue_bn": "এই নাম অহংকার দূর করতে এবং বিনয় বৃদ্ধিতে সাহায্য করে।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/mutakabbir.mp3"
   },
   {
@@ -81,6 +103,8 @@
     "name_arabic": "الْخَالِقُ",
     "name_bengali": "আল-খালিক্ব",
     "meaning_bn": "সৃষ্টিকর্তা",
+    "explanation_bn": "যিনি সকল সৃষ্টির স্রষ্টা এবং নির্মাতা এবং তার সৃষ্টি অসীম এবং বৈচিত্র্যময়।",
+    "virtue_bn": "এই নাম দিয়ে দোয়া করলে সৃজনশীলতা এবং উদ্ভাবনী চিন্তা বৃদ্ধি পায়।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/khaliq.mp3"
   },
   {
@@ -88,6 +112,8 @@
     "name_arabic": "الْبَارِئُ",
     "name_bengali": "আল-বারী",
     "meaning_bn": "সঠিকভাবে সৃষ্টিকারী",
+    "explanation_bn": "যিনি নিখুঁতভাবে এবং পরিমাণের সাথে সবকিছু সৃষ্টি করেন।",
+    "virtue_bn": "এই নাম সঠিক পরিকল্পনা এবং নিখুঁততার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/bari.mp3"
   },
   {
@@ -95,6 +121,8 @@
     "name_arabic": "الْمُصَوِّرُ",
     "name_bengali": "আল-মুছউইর",
     "meaning_bn": "আকৃতি-দানকারী",
+    "explanation_bn": "যিনি প্রতিটি সৃষ্টিকে অনন্য এবং সুন্দর আকৃতি প্রদান করেন।",
+    "virtue_bn": "এই নাম সৌন্দর্য এবং গ্রহণীয়তার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/musawwir.mp3"
   },
   {
@@ -102,6 +130,8 @@
     "name_arabic": "الْغَفَّارُ",
     "name_bengali": "আল-গফ্ফার",
     "meaning_bn": "পরম ক্ষমাশীল",
+    "explanation_bn": "যিনি বারবার এবং ক্রমাগত ক্ষমা করেন এবং পাপ মার্জনা করেন।",
+    "virtue_bn": "এই নাম তাওবা এবং মাগফিরাতের জন্য সবচেয়ে কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/ghaffar.mp3"
   },
   {
@@ -109,6 +139,8 @@
     "name_arabic": "الْقَهَّارُ",
     "name_bengali": "আল-ক্বাহার",
     "meaning_bn": "দমনকারী",
+    "explanation_bn": "যিনি সকল প্রতিপক্ষকে পরাজিত এবং দমিত করেন এবং সর্বোচ্চ শক্তির অধিকারী।",
+    "virtue_bn": "এই নাম শত্রু এবং অত্যাচারীদের বিরুদ্ধে সহায়তার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/qahhar.mp3"
   },
   {
@@ -116,6 +148,8 @@
     "name_arabic": "الْوَهَّابُ",
     "name_bengali": "আল-ওয়াহ্হাব",
     "meaning_bn": "সবকিছু দানকারী",
+    "explanation_bn": "যিনি ক্রমাগত এবং প্রচুর পরিমাণে সবকিছু দান এবং অনুগ্রহ করেন।",
+    "virtue_bn": "এই নাম রিযিক এবং প্রাচুর্যের জন্য খুবই কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/wahhab.mp3"
   },
   {
@@ -123,13 +157,17 @@
     "name_arabic": "الرَّزَّاقُ",
     "name_bengali": "আর-রজ্জাক্ব",
     "meaning_bn": "রিযিকদাতা",
+    "explanation_bn": "যিনি সকল সৃষ্টির জীবিকা এবং খাদ্য নির্ধারণ এবং সরবরাহ করেন।",
+    "virtue_bn": "এই নাম অর্থনৈতিক সমৃদ্ধি এবং জীবিকার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/razzaq.mp3"
   },
   {
     "number": 19,
-    "name_arabic": "الْفَتَّاحُ",
+    "name_arabic": "الْف��تَّاحُ",
     "name_bengali": "আল ফাত্তাহ",
     "meaning_bn": "বিজয়দানকারী",
+    "explanation_bn": "যিনি বিজয় এবং সাফল্য দিয়ে থাকেন এবং বন্ধ দরজা খুলে দেন।",
+    "virtue_bn": "এই নাম ব্যবসা, শিক্ষা এবং যেকোনো বাধা অতিক্রমের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/fattah.mp3"
   },
   {
@@ -137,6 +175,8 @@
     "name_arabic": "الْعَلِيمُ",
     "name_bengali": "আল-আ'লীম",
     "meaning_bn": "সর্বজ্ঞ",
+    "explanation_bn": "যিনি সকল বিষয় সম্পর্কে সম্পূর্ণ জ্ঞান রাখেন এবং কোনো কিছু তার কাছ থেকে লুকানো নয়।",
+    "virtue_bn": "এই নাম জ্ঞান অর্জন এবং পরীক্ষায় সাফল্যের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/alim.mp3"
   },
   {
@@ -144,6 +184,8 @@
     "name_arabic": "الْقَابِضُ",
     "name_bengali": "আল-ক্ববিদ্ব'",
     "meaning_bn": "নিয়ন্ত্রণকারী",
+    "explanation_bn": "যিনি রিযিক এবং সম্পদ নিয়ন্ত্রণ করেন এবং ধারণ করেন।",
+    "virtue_bn": "এই নাম আর্থিক নিয়ন্ত্রণ এবং সংরক্ষণের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/qabid.mp3"
   },
   {
@@ -151,6 +193,8 @@
     "name_arabic": "الْبَاسِطُ",
     "name_bengali": "আল-বাসিত",
     "meaning_bn": "প্রশস্তকারী",
+    "explanation_bn": "যিনি রিযিক এবং সম্পদ প্রশস্ত করেন এবং প্রচুর পরিমাণে দান করেন।",
+    "virtue_bn": "এই নাম প্রাচুর্য এবং সমৃদ্ধি বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/basit.mp3"
   },
   {
@@ -158,6 +202,8 @@
     "name_arabic": "الْخَافِضُ",
     "name_bengali": "আল-খফিদ্বু",
     "meaning_bn": "অবনতকারী",
+    "explanation_bn": "যিনি অত্যাচারী এবং গর্বিতদের মর্যাদা হ্রাস করেন।",
+    "virtue_bn": "এই নাম অহংকার থেকে মুক্তি এবং বিনম্রতার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/khafid.mp3"
   },
   {
@@ -165,6 +211,8 @@
     "name_arabic": "الرَّافِعُ",
     "name_bengali": "আর-রফীই'",
     "meaning_bn": "উন্নতকারী",
+    "explanation_bn": "যিনি সৎ এবং বিনম্র বান্দাদের মর্যাদা এবং অবস্থান উন্নীত করেন।",
+    "virtue_bn": "এই নাম সামাজিক এবং আধ্যাত্মিক উন্নতির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/rafi.mp3"
   },
   {
@@ -172,6 +220,8 @@
     "name_arabic": "الْمُعِزُّ",
     "name_bengali": "আল-মুই'জ্ব",
     "meaning_bn": "সম্মান-দানকারী",
+    "explanation_bn": "যিনি যাকে চান তাকে সম্মান এবং মর্যাদা প্রদান করেন।",
+    "virtue_bn": "এই নাম সম্মান এবং মর্যাদা অর্জনের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muizz.mp3"
   },
   {
@@ -179,6 +229,8 @@
     "name_arabic": "الْمُذِلُّ",
     "name_bengali": "আল-মুদ্বি'ল্লু",
     "meaning_bn": "বেইজ্জতকারী",
+    "explanation_bn": "যিনি অত্যাচারী এবং দুরাচারীদের অপমান এবং বেইজ্জতি করেন।",
+    "virtue_bn": "এই নাম অত্যাচারীদের বিরুদ্ধে ন্যায় পাওয়ার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/mudhill.mp3"
   },
   {
@@ -186,6 +238,8 @@
     "name_arabic": "السَّمِيعُ",
     "name_bengali": "আস্-সামিই'",
     "meaning_bn": "সর্বশ্রোতা",
+    "explanation_bn": "��িনি সকল আওয়াজ এবং প্রার্থনা শোনেন এবং কোনো কিছু তার কাছ থেকে লুকানো নয়।",
+    "virtue_bn": "এই নাম দোয়া এবং প্রার্থনা কবুলের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/sami.mp3"
   },
   {
@@ -193,6 +247,8 @@
     "name_arabic": "الْبَصِيرُ",
     "name_bengali": "আল-বাছীর",
     "meaning_bn": "সর্বদ্রষ্টা",
+    "explanation_bn": "যিনি সকল কিছু দেখেন এবং কোনো বিষয় তার দৃষ্টি থেকে বাইরে নয়।",
+    "virtue_bn": "এই নাম সঠিক দৃষ্টিভঙ্গি এবং বোঝাপড়ার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/basir.mp3"
   },
   {
@@ -200,6 +256,8 @@
     "name_arabic": "الْحَكَمُ",
     "name_bengali": "আল-হা'কাম",
     "meaning_bn": "বিচারক",
+    "explanation_bn": "��িনি সর্বোচ্চ ন্যায়বিচারক এবং চূড়ান্ত সিদ্ধান্ত গ্রহণকারী।",
+    "virtue_bn": "এই নাম ন্যায় এবং সঠিক সিদ্ধান্তের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/hakam.mp3"
   },
   {
@@ -207,6 +265,8 @@
     "name_arabic": "الْعَدْلُ",
     "name_bengali": "আল-আ'দল",
     "meaning_bn": "ন্যায়বিচারক",
+    "explanation_bn": "যিনি সম্পূর্ণ ন্যায় এবং সমতা বজায় রাখেন এবং কখনো জুলুম করেন না।",
+    "virtue_bn": "এই নাম ন্যায়বিচার এবং ঠকানি থেকে বাঁচার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/adl.mp3"
   },
   {
@@ -214,6 +274,8 @@
     "name_arabic": "اللَّطِيفُ",
     "name_bengali": "আল-লাতীফ",
     "meaning_bn": "সূক্ষ্মদর্শী",
+    "explanation_bn": "যিনি সূক্ষ্ম এবং লুকানো বিষয়গুলি জানেন এবং কৌশলের মাধ্যমে কাজ করেন।",
+    "virtue_bn": "এই নাম কঠিন পরিস্থিতি সমাধানে এবং সহজ উপায় খুঁজে পেতে কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/latif.mp3"
   },
   {
@@ -221,6 +283,8 @@
     "name_arabic": "الْخَبِيرُ",
     "name_bengali": "আল-খ'বীর",
     "meaning_bn": "সম্যক অবগত",
+    "explanation_bn": "যিনি সকল বিষয়ের সম্পূর্ণ জ্ঞান এবং অভিজ্ঞতা রাখেন।",
+    "virtue_bn": "এই নাম সঠিক পছন্দ এবং সিদ্ধান্তের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/khabir.mp3"
   },
   {
@@ -228,6 +292,8 @@
     "name_arabic": "الْحَلِيمُ",
     "name_bengali": "আল-হালীম",
     "meaning_bn": "ধৈর্যশীল",
+    "explanation_bn": "যিনি প্রজ্ঞা এবং ধৈর্যের সাথে কাজ করেন এবং তাড়াহুড়ো করেন না।",
+    "virtue_bn": "এই নাম ধৈর্য এবং আত্মনিয়ন্ত্রণ বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/halim.mp3"
   },
   {
@@ -235,6 +301,8 @@
     "name_arabic": "الْعَظِيمُ",
     "name_bengali": "আল-আ'জীম",
     "meaning_bn": "অতি মহান",
+    "explanation_bn": "যিনি সর্বোচ্চ মহত্ত্ব এবং বিশালত্বের অধিকারী এবং তার সমান কিছু নেই।",
+    "virtue_bn": "এই নাম গৌরব এবং সর্বোচ্চ সাফল্যের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/azim.mp3"
   },
   {
@@ -242,6 +310,8 @@
     "name_arabic": "الْغَفُورُ",
     "name_bengali": "আল-গফুর",
     "meaning_bn": "পরম ক্ষমাশীল",
+    "explanation_bn": "যিনি বান্দাদের পাপ ক্ষমা করেন এবং তাদের অতীত ভুলে যান।",
+    "virtue_bn": "এই নাম গুনাহ মাফ এবং পুনরায় শুরুর জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/ghafur.mp3"
   },
   {
@@ -249,6 +319,8 @@
     "name_arabic": "الشَّكُورُ",
     "name_bengali": "আশ-শাকুর",
     "meaning_bn": "গুণগ্রাহী",
+    "explanation_bn": "যিনি সামান্য পুণ্যকেও গ্রহণ করেন এবং বিস্তৃত পুরস্কার প্রদান করেন।",
+    "virtue_bn": "এই নাম কৃতজ্ঞতা এবং পুরস্কার বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/shakur.mp3"
   },
   {
@@ -256,6 +328,8 @@
     "name_arabic": "الْعَلِيُّ",
     "name_bengali": "আল-আ'লিই'",
     "meaning_bn": "উচ্চ-মর্যাদাশীল",
+    "explanation_bn": "যিনি সর্বোচ্চ মর্যাদা এবং সর্বোত্তম অবস্থান রাখেন।",
+    "virtue_bn": "এই নাম উচ্চমর্যাদা এবং নেতৃত্ব অর্জনের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/ali.mp3"
   },
   {
@@ -263,6 +337,8 @@
     "name_arabic": "الْكَبِيرُ",
     "name_bengali": "আল-কাবীর",
     "meaning_bn": "সুমহান",
+    "explanation_bn": "যিনি সকল কিছুর উপরে বড় এবং তার বড়ত্ব অসীম।",
+    "virtue_bn": "এই নাম শ্রেষ্ঠত্ব এবং প্রভাব বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/kabir.mp3"
   },
   {
@@ -270,6 +346,8 @@
     "name_arabic": "الْحَفِيظُ",
     "name_bengali": "আল-হাফীজ",
     "meaning_bn": "সংরক্ষণকারী",
+    "explanation_bn": "যিনি আপনার আমল এবং কাজ সংরক্ষণ করেন এবং কখনো ভুলেন না।",
+    "virtue_bn": "এই নাম সুরক্ষা এবং সংরক্ষণের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/hafiz.mp3"
   },
   {
@@ -277,6 +355,8 @@
     "name_arabic": "الْمُقِيتُ",
     "name_bengali": "আল-মুক্বীত",
     "meaning_bn": "রিযিকদাতা",
+    "explanation_bn": "যিনি জীবিত প্রতিটি প্রাণীকে শক্তি এবং খাদ্য প্রদান করেন।",
+    "virtue_bn": "এই নাম শক্তি এবং সামর্থ্য বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muqit.mp3"
   },
   {
@@ -284,6 +364,8 @@
     "name_arabic": "الْحَسِيبُ",
     "name_bengali": "আল-হাসীব",
     "meaning_bn": "হিসাব-গ্রহণকারী",
+    "explanation_bn": "যিনি প্রতিটি কাজের হিসাব রাখেন এবং তার ভিত্তিতে ফলাফল দেন।",
+    "virtue_bn": "এই নাম জবাবদিহিতা এবং সঠিকতার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/hasib.mp3"
   },
   {
@@ -291,6 +373,8 @@
     "name_arabic": "الْجَلِيلُ",
     "name_bengali": "আল-জালীল",
     "meaning_bn": "মহিমান্বিত",
+    "explanation_bn": "যিনি সর্বোচ্চ সম্মান এবং মহিমা রাখেন এবং তার মহত্ত্ব অসাধারণ।",
+    "virtue_bn": "এই নাম গৌরব এবং মর্যাদার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/jalil.mp3"
   },
   {
@@ -298,6 +382,8 @@
     "name_arabic": "الْكَرِيمُ",
     "name_bengali": "আল-কারীম",
     "meaning_bn": "মহা-দয়ালু",
+    "explanation_bn": "যিনি অত্যন্ত উদার এবং দয়ালু এবং তার দান অসীম এবং অপরিমিত।",
+    "virtue_bn": "এই নাম উদারতা এবং কল্যাণ বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/karim.mp3"
   },
   {
@@ -305,6 +391,8 @@
     "name_arabic": "الرَّقِيبُ",
     "name_bengali": "আর-রাক্বীব",
     "meaning_bn": "তত্ত্বাবধায়ক",
+    "explanation_bn": "যিনি সকল কাজ তদারকি করেন এবং কোনো কিছু তার নজর এড়ায় না।",
+    "virtue_bn": "এই নাম সঠিক আচরণ এবং স্বচ্ছতার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/raqib.mp3"
   },
   {
@@ -312,6 +400,8 @@
     "name_arabic": "الْمُجِيبُ",
     "name_bengali": "আল-মুজীব",
     "meaning_bn": "প্রার্থনা-কবুলকারী",
+    "explanation_bn": "যিনি দুর্বল এবং অসহায়দের প্রার্থনা শোনেন এবং কবুল করেন।",
+    "virtue_bn": "এই নাম দোয়া এবং প্রার্থনার উত্তর পাওয়ার জন্য খুবই কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/mujib.mp3"
   },
   {
@@ -319,6 +409,8 @@
     "name_arabic": "الْوَاسِعُ",
     "name_bengali": "আল-ওয়াসিই'",
     "meaning_bn": "সর্বব্যাপী",
+    "explanation_bn": "যিনি সর্বত্র বিস্তৃত এবং তার জ্ঞান এবং ক্ষমতা অসীম।",
+    "virtue_bn": "এই নাম প্রশস্ততা এবং সম্ভাবনার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/wasi.mp3"
   },
   {
@@ -326,6 +418,8 @@
     "name_arabic": "الْحَكِيمُ",
     "name_bengali": "আল-হাকীম",
     "meaning_bn": "প্রজ্ঞাময়",
+    "explanation_bn": "যিনি সম্পূর্ণ প্রজ্ঞা এবং দূরদর্শিতার সাথে সকল কিছু পরিচালনা করেন।",
+    "virtue_bn": "এই নাম জ্ঞান এবং সঠিক পরিকল্পনার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/hakim.mp3"
   },
   {
@@ -333,6 +427,8 @@
     "name_arabic": "الْوَدُودُ",
     "name_bengali": "আল-ওয়াদুদ",
     "meaning_bn": "প্রেমময়",
+    "explanation_bn": "যিনি সর্বোচ্চ ভালোবাসা এবং স্নেহের অধিকারী এবং নিজের বান্দাদের ভালোবাসেন।",
+    "virtue_bn": "এই নাম প্রেম এবং সম্পর্ক উন্নয়নের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/wadud.mp3"
   },
   {
@@ -340,6 +436,8 @@
     "name_arabic": "الْمَجِيدُ",
     "name_bengali": "আল-মাজীদ",
     "meaning_bn": "অতি সম্মানিত",
+    "explanation_bn": "যিনি সর্বোচ্চ সম্মান এবং মর্যাদার আসন অধিকার করেন।",
+    "virtue_bn": "এই নাম সম্মান এবং প্রতিষ্ঠার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/majid.mp3"
   },
   {
@@ -347,6 +445,8 @@
     "name_arabic": "الْبَاعِثُ",
     "name_bengali": "আল-বা'ইছ'",
     "meaning_bn": "পুনরুত্থানকারী",
+    "explanation_bn": "যিনি মৃত মানুষদের পুনরায় জীবিত করবেন এবং সৃষ্টিকে পুনরুত্থিত করবেন।",
+    "virtue_bn": "এই নাম পরলোকের চিন্তা এবং আধ্যাত্মিক জাগরণের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/baith.mp3"
   },
   {
@@ -354,6 +454,8 @@
     "name_arabic": "الشَّهِيدُ",
     "name_bengali": "আশ-শাহীদ",
     "meaning_bn": "সাক্ষী",
+    "explanation_bn": "যিনি সকল কাজ এবং গোপন বিষয়ের সাক্ষী এবং তার সাক্ষ্য চূড়ান্ত।",
+    "virtue_bn": "এই নাম ন্যায় ��বং সত্যের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/shahid.mp3"
   },
   {
@@ -361,6 +463,8 @@
     "name_arabic": "الْحَقُّ",
     "name_bengali": "আল-হাক্ব",
     "meaning_bn": "পরম-সত্য",
+    "explanation_bn": "যিনি পরম সত্য এবং তার সত্যতা চিরন্তন এবং অপরিবর্তনীয়।",
+    "virtue_bn": "এই নাম সত্য এবং সঠিক জ্ঞান অর্জনের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/haqq.mp3"
   },
   {
@@ -368,6 +472,8 @@
     "name_arabic": "الْوَكِيلُ",
     "name_bengali": "আল-ওয়াকীল",
     "meaning_bn": "প্রতিনিধি",
+    "explanation_bn": "যিনি বিশ্বস্ত এবং তার উপর নির্ভর করা যায় এবং তিনি সর্বোত্তম পরিচর্যা প্রদান করেন।",
+    "virtue_bn": "এই নাম বিশ্বাস এবং সম্পূর্ণ নির্ভরতার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/wakil.mp3"
   },
   {
@@ -375,13 +481,17 @@
     "name_arabic": "الْقَوِيُّ",
     "name_bengali": "আল-ক্বউইই'",
     "meaning_bn": "শক্তিশালী",
+    "explanation_bn": "যিনি অসীম শক্তি এবং ক্ষমতা রাখেন এবং কোনো বাধা তার জন্য অসম্ভব নয়।",
+    "virtue_bn": "এই নাম শক্তি এবং সাহস বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/qawi.mp3"
   },
   {
     "number": 55,
     "name_arabic": "الْمَتِينُ",
     "name_bengali": "আল-মাতীন",
-    "meaning_bn": "সুদৃঢ়",
+    "meaning_bn": "সুদৃঢ়",
+    "explanation_bn": "যিনি সর্বোচ্চ শক্তিশালী এবং অটুট এবং কোনো দুর্বলতা তার মধ্যে নেই।",
+    "virtue_bn": "এই নাম দৃঢ়তা এবং অবিচলতার জন্��� কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/matin.mp3"
   },
   {
@@ -389,6 +499,8 @@
     "name_arabic": "الْوَلِيُّ",
     "name_bengali": "আল-ওয়ালিই'",
     "meaning_bn": "অভিভাবক",
+    "explanation_bn": "যিনি অলী এবং সাহায্যকারী এবং সৎ মানুষদের রক্ষক ও পরামর্শদাতা।",
+    "virtue_bn": "এই নাম রক্ষা এবং সাহায্যের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/wali.mp3"
   },
   {
@@ -396,6 +508,8 @@
     "name_arabic": "الْحَمِيدُ",
     "name_bengali": "আল-হামীদ",
     "meaning_bn": "প্রশংসিত",
+    "explanation_bn": "যিনি সকল পরিস্থিতিতে প্রশংসা এবং গুণগ্রাহিতার যোগ্য এবং সর্বোচ্চ প্রশংসিত।",
+    "virtue_bn": "এই নাম কৃতজ্ঞতা এবং প্রশংসা বৃদ্ধির জন্য কা��্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/hamid.mp3"
   },
   {
@@ -403,6 +517,8 @@
     "name_arabic": "الْمُحْصِي",
     "name_bengali": "আল-মুহসী",
     "meaning_bn": "হিসাব-সংরক্ষণকারী",
+    "explanation_bn": "যিনি প্রতিটি কাজ এবং কথার সংখ্যা গণনা করেন এবং কোনো কিছু হারিয়ে যায় না।",
+    "virtue_bn": "এই নাম সতর্কতা এবং দায়িত্বশীলতার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muhsi.mp3"
   },
   {
@@ -410,6 +526,8 @@
     "name_arabic": "الْمُبْدِئُ",
     "name_bengali": "আল-মুব্দিই'",
     "meaning_bn": "প্রারম্ভকারী",
+    "explanation_bn": "যিনি সর্বপ্রথম সৃষ্টি শুরু করেন এবং নতুন নতুন জিনিস অস্তিত্ব দেন।",
+    "virtue_bn": "এই নাম নতুন শুরু এবং পুনরায় শুরুর জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/mubdi.mp3"
   },
   {
@@ -417,6 +535,8 @@
     "name_arabic": "الْمُعِيدُ",
     "name_bengali": "আল-মুঈ'দ",
     "meaning_bn": "পুনরায়-সৃষ্টিকারী",
+    "explanation_bn": "যিনি ধ্বংস হওয়া জিনিসকে পুনরায় নির্মাণ করেন এবং মৃত্যুর পর পুনরুত্থান ঘটান।",
+    "virtue_bn": "এই নাম পুনর্জন্ম এবং নতুন সুযোগের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muid.mp3"
   },
   {
@@ -424,6 +544,8 @@
     "name_arabic": "الْمُحْيِي",
     "name_bengali": "আল-মুহ্ইয়ী",
     "meaning_bn": "জীবন-দানকারী",
+    "explanation_bn": "যিনি নতুন জীবন এবং প্রাণ প্রদান করেন এবং মৃত ভূমিকে জীবন্ত করে তোলেন।",
+    "virtue_bn": "এই নাম স্বাস্থ্য এবং জীবনী শক্তির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muhyi.mp3"
   },
   {
@@ -431,6 +553,8 @@
     "name_arabic": "الْمُمِيتُ",
     "name_bengali": "আল-মুমীত",
     "meaning_bn": "মৃত্যু-দানকারী",
+    "explanation_bn": "যিনি জীবন শেষ করেন এবং মৃত্যু আনেন এবং এটি সম্পূর্ণভাবে তার হাতে।",
+    "virtue_bn": "এই নাম মৃত্যুর জন্য প্রস্তুতি এবং আত্মজ্ঞানের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/mumit.mp3"
   },
   {
@@ -438,6 +562,8 @@
     "name_arabic": "الْحَيُّ",
     "name_bengali": "আল-হাইই'",
     "meaning_bn": "চিরঞ্জীব",
+    "explanation_bn": "যিনি চিরকাল জীবিত এবং কখনো মৃত্যু হবেন না এবং তার জীবন চিরন্তন।",
+    "virtue_bn": "এই নাম চিরন্তন জীবন এবং আধ্যাত্মিক জাগরণের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/hayy.mp3"
   },
   {
@@ -445,6 +571,8 @@
     "name_arabic": "الْقَيُّومُ",
     "name_bengali": "আল-ক্বইয়ূম",
     "meaning_bn": "ধারক",
+    "explanation_bn": "যিনি সকল কিছু ধরে রাখেন এবং পরিচালনা করেন এবং কোনো সাহায্য ছাড়াই স্বয়ংসম্পূর্ণ।",
+    "virtue_bn": "এই নাম স্থিতিশীলতা এবং নির্ভরতার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/qayyum.mp3"
   },
   {
@@ -452,6 +580,8 @@
     "name_arabic": "الْوَاجِدُ",
     "name_bengali": "আল-ওয়াজিদ",
     "meaning_bn": "লাভকারী",
+    "explanation_bn": "যিনি যা চান তা পান এবং তার সন্ধান সফল এবং তিনি কখনো হতাশ হন না।",
+    "virtue_bn": "এই নাম সফলতা এবং লক্ষ্য অর্জনের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/wajid.mp3"
   },
   {
@@ -459,6 +589,8 @@
     "name_arabic": "الْمَاجِدُ",
     "name_bengali": "আল-মাজিদ",
     "meaning_bn": "মহিমান্বিত",
+    "explanation_bn": "যিনি সর্বোচ্চ মহিমা এবং গৌরবের মালিক এবং তার গুণ অসীম।",
+    "virtue_bn": "এই নাম মহিমা এবং সম্মানের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/maajid.mp3"
   },
   {
@@ -466,6 +598,8 @@
     "name_arabic": "الْوَاحِدُ",
     "name_bengali": "আল-ওয়াহিদ",
     "meaning_bn": "অদ্বিতীয়",
+    "explanation_bn": "যিনি একমাত্র এবং অতুলনীয় এবং তার মতো কেউ নেই।",
+    "virtue_bn": "এই নাম একতা এবং ঐক্যের জ��্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/wahid.mp3"
   },
   {
@@ -473,6 +607,8 @@
     "name_arabic": "الْأَحَد",
     "name_bengali": "আল-আহাদ",
     "meaning_bn": "এক",
+    "explanation_bn": "যিনি সংখ্যার বিচারে এক এবং অনন্য এবং অন্য কোনো সংখ্যা তার সাথে মিলিত নয়।",
+    "virtue_bn": "এই নাম তাওহিদ এবং একীভূতকরণের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/ahad.mp3"
   },
   {
@@ -480,13 +616,17 @@
     "name_arabic": "الصَّمَدُ",
     "name_bengali": "আস্-সমাদ",
     "meaning_bn": "অমুখাপেক্ষী",
+    "explanation_bn": "যিনি কারো সাহায্য এবং মুখাপেক্ষী নন এবং সম্পূর্ণভাবে স্বয়ংসম্পূর্ণ।",
+    "virtue_bn": "এই নাম স্বাধীনতা এবং আত্মনির্ভরশীলতার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/samad.mp3"
   },
   {
     "number": 70,
     "name_arabic": "الْقَادِرُ",
     "name_bengali": "আল-ক্বাদির",
-    "meaning_bn": "সর্বशक्तिমান",
+    "meaning_bn": "সর্বশক্তিমান",
+    "explanation_bn": "যিনি সকল কিছু করতে সক্ষম এবং তার শক্তি অসীম এবং সর্বজনীন।",
+    "virtue_bn": "এই নাম শক্তি এবং সামর্থ্যের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/qadir.mp3"
   },
   {
@@ -494,6 +634,8 @@
     "name_arabic": "الْمُقْتَدِرُ",
     "name_bengali": "আল-মুক্ব্তাদির",
     "meaning_bn": "প্রভাবশালী",
+    "explanation_bn": "যিনি সর্বোচ্চ ক্ষমতা এবং প্রভাবের মালিক এবং তার নিয়ন্ত্রণ সর্বত্র।",
+    "virtue_bn": "এই নাম প্রভাব এবং কর্���ৃত্বের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muqtadir.mp3"
   },
   {
@@ -501,6 +643,8 @@
     "name_arabic": "الْمُقَدِّمُ",
     "name_bengali": "আল-মুক্বদ্দিম",
     "meaning_bn": "অগ্রসরকারী",
+    "explanation_bn": "যিনি যাকে সামনে নিয়ে আসতে চান তাকে সামনে করেন এবং তার অগ্রগতি নিশ্চিত করেন।",
+    "virtue_bn": "এই নাম অগ্রগতি এবং সাফল্যের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muqaddim.mp3"
   },
   {
@@ -508,6 +652,8 @@
     "name_arabic": "الْمُؤَخِّرُ",
     "name_bengali": "আল-মুয়াক্ষখির",
     "meaning_bn": "বিলম্বকারী",
+    "explanation_bn": "যিনি যাকে পিছিয়ে দিতে চান তাকে পিছিয়ে দেন এবং বিলম্ব আনেন।",
+    "virtue_bn": "এই নাম প্রতিরক্ষা এবং বিপদ থেকে রক্ষার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muakhkhir.mp3"
   },
   {
@@ -515,6 +661,8 @@
     "name_arabic": "الْأَوَّلُ",
     "name_bengali": "আল-আউয়াল",
     "meaning_bn": "প্রথম",
+    "explanation_bn": "যিনি সবার আগে আছেন এবং তার আগে কিছু ছিল না এবং সময়ের বাইরে।",
+    "virtue_bn": "এই নাম চিরন্তনতা এবং শাশ্বততার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/awwal.mp3"
   },
   {
@@ -522,6 +670,8 @@
     "name_arabic": "الْآخِرُ",
     "name_bengali": "আল-আখির",
     "meaning_bn": "শেষ",
+    "explanation_bn": "যিনি সবার পরে থাকবেন এবং তার পরে কিছু নেই এবং তিনি চিরন্তন।",
+    "virtue_bn": "এই নাম মৃত্যুর জন্য প্রস্তুতি এবং পরলোকের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/akhir.mp3"
   },
   {
@@ -529,6 +679,8 @@
     "name_arabic": "الظَّاهِرُ",
     "name_bengali": "আয্-যহির",
     "meaning_bn": "প্রকাশ্য",
+    "explanation_bn": "যিনি বাহিরে এবং প্রকাশ্য এবং তার আধিপত্য সর্বদৃশ্যমান।",
+    "virtue_bn": "এই নাম সত্য এবং ন্যায়ের বিজয়ের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/zahir.mp3"
   },
   {
@@ -536,6 +688,8 @@
     "name_arabic": "الْبَاطِنُ",
     "name_bengali": "আল-বাতিন",
     "meaning_bn": "গোপন",
+    "explanation_bn": "যিনি লুকানো এবং গোপন এবং তার সত্যতা বোধগম্যতার বাইরে।",
+    "virtue_bn": "এই নাম রহস্য এবং অলৌকিক জ্ঞানের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/batin.mp3"
   },
   {
@@ -543,6 +697,8 @@
     "name_arabic": "الْوَالِي",
     "name_bengali": "আল-ওয়ালী",
     "meaning_bn": "অধিপতি",
+    "explanation_bn": "যিনি শাসক এবং কর্তা এবং সকল বিষয়ের প্রকৃত অধিকারী।",
+    "virtue_bn": "এই নাম কর্তৃত্ব এবং নেতৃত্বের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/waliy.mp3"
   },
   {
@@ -550,6 +706,8 @@
     "name_arabic": "الْمُتَعَالِي",
     "name_bengali": "আল-মুতা'আলী",
     "meaning_bn": "অত্যুচ্চ",
+    "explanation_bn": "যিনি অত্যন্ত উচ্চ এবং সর্বোচ্চ মর্যাদায় বিরাজমান এবং তার উপরে কিছু নেই।",
+    "virtue_bn": "এই নাম মহত্ত্ব এবং আধ্যাত্মিক উন্নয়নের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/mutaali.mp3"
   },
   {
@@ -557,6 +715,8 @@
     "name_arabic": "الْبَرُّ",
     "name_bengali": "আল-বার",
     "meaning_bn": "হিতৈষী",
+    "explanation_bn": "যিনি পুণ্য এবং সৎকাজের সহায়ক এবং নেকি বৃদ্ধিতে সহায়তা করেন।",
+    "virtue_bn": "এই নাম সৎকাজ এবং ভালোত্ব বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/barr.mp3"
   },
   {
@@ -564,6 +724,8 @@
     "name_arabic": "التَّوَّابُ",
     "name_bengali": "আত-তাওয়াব",
     "meaning_bn": "তওবা-কবুলকারী",
+    "explanation_bn": "যিনি ক্রমাগত তাওবা কবুল করেন এবং বারবার তাওবাকারীদের গ্রহণ করেন।",
+    "virtue_bn": "এই নাম পাপ মুক্তি এবং তাওবার জন্য সবচেয়ে কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/tawwab.mp3"
   },
   {
@@ -571,6 +733,8 @@
     "name_arabic": "الْمُنْتَقِمُ",
     "name_bengali": "আল-মুনতাক্বিম",
     "meaning_bn": "প্রতিশোধ-গ্রহণকারী",
+    "explanation_bn": "যিনি অত্যাচারীদের এবং জালিমদের থেকে প্রতিশোধ নেন এবং ন্যায় পূর্ণ করেন।",
+    "virtue_bn": "এই নাম ন্যায় এবং অত্যাচারীদের বিরুদ্ধে সহায়তার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muntaqim.mp3"
   },
   {
@@ -578,6 +742,8 @@
     "name_arabic": "الرَّؤُوفُ",
     "name_bengali": "আর-রউফ",
     "meaning_bn": "পরম-স্নেহশীল",
+    "explanation_bn": "যিনি অত্যন্ত স্নেহশীল এবং দরদী এবং তার সহানুভূতি অসীম।",
+    "virtue_bn": "এই নাম সহানুভূতি এবং স্নেহ বৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/rauf.mp3"
   },
   {
@@ -585,6 +751,8 @@
     "name_arabic": "مَالِكُ الْمُلْكِ",
     "name_bengali": "মালিকুল-মুলক",
     "meaning_bn": "জগতের বাদশাহ্",
+    "explanation_bn": "যিনি সমস্ত রাজ্যের মালিক এবং সর্বোচ্চ কর্তৃত্বের অধিকারী।",
+    "virtue_bn": "এই নাম রাজত্ব এবং শক্তিমত্তার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/malikul-mulk.mp3"
   },
   {
@@ -592,6 +760,8 @@
     "name_arabic": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
     "name_bengali": "যুল-জালালি-ওয়াল-ইকরাম",
     "meaning_bn": "দয়াবান সত্তা",
+    "explanation_bn": "যিনি মহিমা এবং সম্মানের মালিক এবং তার মর্যাদা অতুলনীয়।",
+    "virtue_bn": "এই নাম মহিমা এবং সম্মানের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/dhul-jalali-wal-ikram.mp3"
   },
   {
@@ -599,6 +769,8 @@
     "name_arabic": "الْمُقْسِطُ",
     "name_bengali": "আল-মুক্ব্সিত",
     "meaning_bn": "হক-আদায়কারী",
+    "explanation_bn": "যিনি ন্যায় বণ্টন করেন এবং সকলকে তাদের প্রাপ্য দেন।",
+    "virtue_bn": "এই নাম ন্যায়বিচার এবং সমতার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/muqsit.mp3"
   },
   {
@@ -606,6 +778,8 @@
     "name_arabic": "الْجَامِعُ",
     "name_bengali": "আল-জামিই'",
     "meaning_bn": "একত্রকারী",
+    "explanation_bn": "যিনি বিচ্ছিন্ন বিষয়গুলিকে একত্রিত করেন এবং সংযোগ স্থাপন করেন।",
+    "virtue_bn": "এই নাম একতা এবং সমন্বয়ের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/jami.mp3"
   },
   {
@@ -613,6 +787,8 @@
     "name_arabic": "الْغَنِيُّ",
     "name_bengali": "আল-গণিই'",
     "meaning_bn": "অমুখাপেক্ষী ধনী",
+    "explanation_bn": "যিনি কারো দরকার নেই এবং সম্পূর্ণ স্বয়ংসম্পূর্ণ এবং ধনী।",
+    "virtue_bn": "এই নাম স্বাধীনতা এবং সমৃদ্ধির জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/ghani.mp3"
   },
   {
@@ -620,6 +796,8 @@
     "name_arabic": "الْمُغْنِيُ",
     "name_bengali": "আল-মুগণিই'",
     "meaning_bn": "অভাবমোচনকারী",
+    "explanation_bn": "যিনি গরিব এবং অভাবগ্রস্তদের সমৃদ্ধ করেন এবং তাদের অভাব দূর করেন।",
+    "virtue_bn": "এই নাম অর্থনৈতিক মুক্তি এবং প্রাচুর্যের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/mughni.mp3"
   },
   {
@@ -627,6 +805,8 @@
     "name_arabic": "الْمَانِعُ",
     "name_bengali": "আল-মানিই'",
     "meaning_bn": "অকল্যাণরোধক",
+    "explanation_bn": "যিনি ক্ষতি এবং বিপদ থেকে রক্ষা করেন এবং কল্যাণ নিশ্চিত করেন।",
+    "virtue_bn": "এই নাম সুরক্ষা এবং কল্যাণের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/mani.mp3"
   },
   {
@@ -634,6 +814,8 @@
     "name_arabic": "الضَّارُّ",
     "name_bengali": "আয্-যর",
     "meaning_bn": "ক্ষতিসাধনকারী",
+    "explanation_bn": "যিনি ক্ষতি এবং অনিষ্ট সাধন করেন এবং এটি তার সম্পূর্ণ ক্ষমতায়।",
+    "virtue_bn": "এই নাম বিপদ থেকে রক্ষা এবং আত্মনিয়ন্ত্রণের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/darr.mp3"
   },
   {
@@ -641,6 +823,8 @@
     "name_arabic": "النَّافِعُ",
     "name_bengali": "আন্-নাফিই'",
     "meaning_bn": "কল্যাণকারী",
+    "explanation_bn": "যিনি উপকার এবং কল্যাণ সাধন করেন এবং সমৃদ্ধি আনেন।",
+    "virtue_bn": "এই নাম সকল প্রকার উপকার এবং কল্যাণের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/nafi.mp3"
   },
   {
@@ -648,6 +832,8 @@
     "name_arabic": "النُّورُ",
     "name_bengali": "আন্-নূর",
     "meaning_bn": "পরম-আলো",
+    "explanation_bn": "যিনি আলো এবং দিকনির্দেশনা প্রদান করেন এবং সকল অন্ধকার দূর করেন।",
+    "virtue_bn": "এই নাম জ্ঞান এবং আধ্যাত্মিক আলোকিতকরণের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/nur.mp3"
   },
   {
@@ -655,6 +841,8 @@
     "name_arabic": "الْهَادِي",
     "name_bengali": "আল-হাদী",
     "meaning_bn": "পথ-প্রদর্শক",
+    "explanation_bn": "যিনি সঠিক পথ দেখান এবং দিকনির্দেশনা প্রদান করেন।",
+    "virtue_bn": "এই নাম সঠিক পথ এবং নৈতিক দিকনির্দেশনার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/hadi.mp3"
   },
   {
@@ -662,6 +850,8 @@
     "name_arabic": "الْبَدِيعُ",
     "name_bengali": "আল-বাদীই'",
     "meaning_bn": "অতুলনীয়",
+    "explanation_bn": "যিনি অনন্য এবং তার সৃষ্টি নতুন এবং অপূর্ব এবং তার মতো কিছু নেই।",
+    "virtue_bn": "এই নাম সৃজনশীলতা এবং অনন্যতার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/badi.mp3"
   },
   {
@@ -669,6 +859,8 @@
     "name_arabic": "الْبَاقِي",
     "name_bengali": "আল-বাক্বী",
     "meaning_bn": "চিরস্থায়ী",
+    "explanation_bn": "যিনি চিরস্থায়ী এবং চিরন্তন এবং সকল কিছু লোপ পাবে কিন্তু তিনি অবশিষ্ট থাকবেন।",
+    "virtue_bn": "এই নাম শাশ্বততা এবং চিরন্তনতার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/baqi.mp3"
   },
   {
@@ -676,6 +868,8 @@
     "name_arabic": "الْوَارِثُ",
     "name_bengali": "আল-ওয়ারিস'",
     "meaning_bn": "উত্তরাধিকারী",
+    "explanation_bn": "যিনি সকল কিছু উত্তরাধিকার সূত্রে পাবেন এবং সকল কিছুর মালিক থাকবেন।",
+    "virtue_bn": "এই নাম ঐতিহ্য এবং চিরন্তন মালিকানার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/warith.mp3"
   },
   {
@@ -683,6 +877,8 @@
     "name_arabic": "الرَّشِيدُ",
     "name_bengali": "আর-রাশীদ",
     "meaning_bn": "সঠিক পথ-প্রদর্শক",
+    "explanation_bn": "যিনি সঠিক এবং প্রজ্ঞাবান পথ দেখান এবং ভালো পরামর্শ প্রদান করেন।",
+    "virtue_bn": "এই নাম সঠিক সিদ্ধান্ত এবং পথনির্দেশনার জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/rashid.mp3"
   },
   {
@@ -690,6 +886,8 @@
     "name_arabic": "الصَّبُورُ",
     "name_bengali": "আস-সবুর",
     "meaning_bn": "ধৈর্যধারণকারী",
+    "explanation_bn": "যিনি চরম ধৈর্য এবং সহনশীলতার সাথে সকল কাজ পরিচালনা করেন।",
+    "virtue_bn": "এই নাম ধৈর্য এবং আত্মসংযমের জন্য কার্যকর।",
     "audio": "https://islamicapi.com/audio/asma-ul-husna/sabur.mp3"
   }
 ]
