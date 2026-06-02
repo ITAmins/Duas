@@ -1,0 +1,695 @@
+[
+  {
+    "number": 1,
+    "name_arabic": "الله",
+    "name_bengali": "আল্লাহ",
+    "meaning_bn": "আল্লাহ",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/allah.mp3"
+  },
+  {
+    "number": 2,
+    "name_arabic": "الرَّحْمَنُ",
+    "name_bengali": "আর রাহমান",
+    "meaning_bn": "পরম দয়ালু",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/rahman.mp3"
+  },
+  {
+    "number": 3,
+    "name_arabic": "الرَّحِيمُ",
+    "name_bengali": "আর-রাহীম",
+    "meaning_bn": "অতি দয়ালু",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/rahim.mp3"
+  },
+  {
+    "number": 4,
+    "name_arabic": "الْمَلِকُ",
+    "name_bengali": "আল-মালিক",
+    "meaning_bn": "অধিপতি",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/malik.mp3"
+  },
+  {
+    "number": 5,
+    "name_arabic": "الْقُدُّوسُ",
+    "name_bengali": "আল-কুদ্দুস",
+    "meaning_bn": "অতি পবিত্র",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/quddus.mp3"
+  },
+  {
+    "number": 6,
+    "name_arabic": "السَّلَامُ",
+    "name_bengali": "আস-সালাম",
+    "meaning_bn": "শান্তি-দানকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/salam.mp3"
+  },
+  {
+    "number": 7,
+    "name_arabic": "الْمُؤْمِنُ",
+    "name_bengali": "আল-মু'মিন",
+    "meaning_bn": "নিরাপত্তা দানকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/mumin.mp3"
+  },
+  {
+    "number": 8,
+    "name_arabic": "الْمُهَيْمِنُ",
+    "name_bengali": "আল-মুহাইমিন",
+    "meaning_bn": "রক্ষক",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muhaymin.mp3"
+  },
+  {
+    "number": 9,
+    "name_arabic": "الْعَزِيزُ",
+    "name_bengali": "আল-আ'জীজ",
+    "meaning_bn": "পরাক্রমশালী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/aziz.mp3"
+  },
+  {
+    "number": 10,
+    "name_arabic": "الْجَبَّارُ",
+    "name_bengali": "আল-জাব্বার",
+    "meaning_bn": "দুর্নিবার",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/jabbar.mp3"
+  },
+  {
+    "number": 11,
+    "name_arabic": "الْمُتَكَبِّرُ",
+    "name_bengali": "আল-মুতাকাব্বিইর",
+    "meaning_bn": "সর্বশ্রেষ্ঠ",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/mutakabbir.mp3"
+  },
+  {
+    "number": 12,
+    "name_arabic": "الْخَالِقُ",
+    "name_bengali": "আল-খালিক্ব",
+    "meaning_bn": "সৃষ্টিকর্তা",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/khaliq.mp3"
+  },
+  {
+    "number": 13,
+    "name_arabic": "الْبَارِئُ",
+    "name_bengali": "আল-বারী",
+    "meaning_bn": "সঠিকভাবে সৃষ্টিকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/bari.mp3"
+  },
+  {
+    "number": 14,
+    "name_arabic": "الْمُصَوِّرُ",
+    "name_bengali": "আল-মুছউইর",
+    "meaning_bn": "আকৃতি-দানকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/musawwir.mp3"
+  },
+  {
+    "number": 15,
+    "name_arabic": "الْغَفَّارُ",
+    "name_bengali": "আল-গফ্ফার",
+    "meaning_bn": "পরম ক্ষমাশীল",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/ghaffar.mp3"
+  },
+  {
+    "number": 16,
+    "name_arabic": "الْقَهَّارُ",
+    "name_bengali": "আল-ক্বাহার",
+    "meaning_bn": "দমনকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/qahhar.mp3"
+  },
+  {
+    "number": 17,
+    "name_arabic": "الْوَهَّابُ",
+    "name_bengali": "আল-ওয়াহ্হাব",
+    "meaning_bn": "সবকিছু দানকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/wahhab.mp3"
+  },
+  {
+    "number": 18,
+    "name_arabic": "الرَّزَّاقُ",
+    "name_bengali": "আর-রজ্জাক্ব",
+    "meaning_bn": "রিযিকদাতা",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/razzaq.mp3"
+  },
+  {
+    "number": 19,
+    "name_arabic": "الْفَتَّاحُ",
+    "name_bengali": "আল ফাত্তাহ",
+    "meaning_bn": "বিজয়দানকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/fattah.mp3"
+  },
+  {
+    "number": 20,
+    "name_arabic": "الْعَلِيمُ",
+    "name_bengali": "আল-আ'লীম",
+    "meaning_bn": "সর্বজ্ঞ",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/alim.mp3"
+  },
+  {
+    "number": 21,
+    "name_arabic": "الْقَابِضُ",
+    "name_bengali": "আল-ক্ববিদ্ব'",
+    "meaning_bn": "নিয়ন্ত্রণকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/qabid.mp3"
+  },
+  {
+    "number": 22,
+    "name_arabic": "الْبَاسِطُ",
+    "name_bengali": "আল-বাসিত",
+    "meaning_bn": "প্রশস্তকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/basit.mp3"
+  },
+  {
+    "number": 23,
+    "name_arabic": "الْخَافِضُ",
+    "name_bengali": "আল-খফিদ্বু",
+    "meaning_bn": "অবনতকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/khafid.mp3"
+  },
+  {
+    "number": 24,
+    "name_arabic": "الرَّافِعُ",
+    "name_bengali": "আর-রফীই'",
+    "meaning_bn": "উন্নতকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/rafi.mp3"
+  },
+  {
+    "number": 25,
+    "name_arabic": "الْمُعِزُّ",
+    "name_bengali": "আল-মুই'জ্ব",
+    "meaning_bn": "সম্মান-দানকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muizz.mp3"
+  },
+  {
+    "number": 26,
+    "name_arabic": "الْمُذِلُّ",
+    "name_bengali": "আল-মুদ্বি'ল্লু",
+    "meaning_bn": "বেইজ্জতকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/mudhill.mp3"
+  },
+  {
+    "number": 27,
+    "name_arabic": "السَّمِيعُ",
+    "name_bengali": "আস্-সামিই'",
+    "meaning_bn": "সর্বশ্রোতা",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/sami.mp3"
+  },
+  {
+    "number": 28,
+    "name_arabic": "الْبَصِيرُ",
+    "name_bengali": "আল-বাছীর",
+    "meaning_bn": "সর্বদ্রষ্টা",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/basir.mp3"
+  },
+  {
+    "number": 29,
+    "name_arabic": "الْحَكَمُ",
+    "name_bengali": "আল-হা'কাম",
+    "meaning_bn": "বিচারক",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/hakam.mp3"
+  },
+  {
+    "number": 30,
+    "name_arabic": "الْعَدْلُ",
+    "name_bengali": "আল-আ'দল",
+    "meaning_bn": "ন্যায়বিচারক",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/adl.mp3"
+  },
+  {
+    "number": 31,
+    "name_arabic": "اللَّطِيفُ",
+    "name_bengali": "আল-লাতীফ",
+    "meaning_bn": "সূক্ষ্মদর্শী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/latif.mp3"
+  },
+  {
+    "number": 32,
+    "name_arabic": "الْخَبِيرُ",
+    "name_bengali": "আল-খ'বীর",
+    "meaning_bn": "সম্যক অবগত",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/khabir.mp3"
+  },
+  {
+    "number": 33,
+    "name_arabic": "الْحَلِيمُ",
+    "name_bengali": "আল-হালীম",
+    "meaning_bn": "ধৈর্যশীল",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/halim.mp3"
+  },
+  {
+    "number": 34,
+    "name_arabic": "الْعَظِيمُ",
+    "name_bengali": "আল-আ'জীম",
+    "meaning_bn": "অতি মহান",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/azim.mp3"
+  },
+  {
+    "number": 35,
+    "name_arabic": "الْغَفُورُ",
+    "name_bengali": "আল-গফুর",
+    "meaning_bn": "পরম ক্ষমাশীল",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/ghafur.mp3"
+  },
+  {
+    "number": 36,
+    "name_arabic": "الشَّكُورُ",
+    "name_bengali": "আশ-শাকুর",
+    "meaning_bn": "গুণগ্রাহী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/shakur.mp3"
+  },
+  {
+    "number": 37,
+    "name_arabic": "الْعَلِيُّ",
+    "name_bengali": "আল-আ'লিই'",
+    "meaning_bn": "উচ্চ-মর্যাদাশীল",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/ali.mp3"
+  },
+  {
+    "number": 38,
+    "name_arabic": "الْكَبِيرُ",
+    "name_bengali": "আল-কাবীর",
+    "meaning_bn": "সুমহান",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/kabir.mp3"
+  },
+  {
+    "number": 39,
+    "name_arabic": "الْحَفِيظُ",
+    "name_bengali": "আল-হাফীজ",
+    "meaning_bn": "সংরক্ষণকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/hafiz.mp3"
+  },
+  {
+    "number": 40,
+    "name_arabic": "الْمُقِيتُ",
+    "name_bengali": "আল-মুক্বীত",
+    "meaning_bn": "রিযিকদাতা",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muqit.mp3"
+  },
+  {
+    "number": 41,
+    "name_arabic": "الْحَسِيبُ",
+    "name_bengali": "আল-হাসীব",
+    "meaning_bn": "হিসাব-গ্রহণকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/hasib.mp3"
+  },
+  {
+    "number": 42,
+    "name_arabic": "الْجَلِيلُ",
+    "name_bengali": "আল-জালীল",
+    "meaning_bn": "মহিমান্বিত",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/jalil.mp3"
+  },
+  {
+    "number": 43,
+    "name_arabic": "الْكَرِيمُ",
+    "name_bengali": "আল-কারীম",
+    "meaning_bn": "মহা-দয়ালু",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/karim.mp3"
+  },
+  {
+    "number": 44,
+    "name_arabic": "الرَّقِيبُ",
+    "name_bengali": "আর-রাক্বীব",
+    "meaning_bn": "তত্ত্বাবধায়ক",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/raqib.mp3"
+  },
+  {
+    "number": 45,
+    "name_arabic": "الْمُجِيبُ",
+    "name_bengali": "আল-মুজীব",
+    "meaning_bn": "প্রার্থনা-কবুলকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/mujib.mp3"
+  },
+  {
+    "number": 46,
+    "name_arabic": "الْوَاسِعُ",
+    "name_bengali": "আল-ওয়াসিই'",
+    "meaning_bn": "সর্বব্যাপী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/wasi.mp3"
+  },
+  {
+    "number": 47,
+    "name_arabic": "الْحَكِيمُ",
+    "name_bengali": "আল-হাকীম",
+    "meaning_bn": "প্রজ্ঞাময়",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/hakim.mp3"
+  },
+  {
+    "number": 48,
+    "name_arabic": "الْوَدُودُ",
+    "name_bengali": "আল-ওয়াদুদ",
+    "meaning_bn": "প্রেমময়",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/wadud.mp3"
+  },
+  {
+    "number": 49,
+    "name_arabic": "الْمَجِيدُ",
+    "name_bengali": "আল-মাজীদ",
+    "meaning_bn": "অতি সম্মানিত",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/majid.mp3"
+  },
+  {
+    "number": 50,
+    "name_arabic": "الْبَاعِثُ",
+    "name_bengali": "আল-বা'ইছ'",
+    "meaning_bn": "পুনরুত্থানকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/baith.mp3"
+  },
+  {
+    "number": 51,
+    "name_arabic": "الشَّهِيدُ",
+    "name_bengali": "আশ-শাহীদ",
+    "meaning_bn": "সাক্ষী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/shahid.mp3"
+  },
+  {
+    "number": 52,
+    "name_arabic": "الْحَقُّ",
+    "name_bengali": "আল-হাক্ব",
+    "meaning_bn": "পরম-সত্য",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/haqq.mp3"
+  },
+  {
+    "number": 53,
+    "name_arabic": "الْوَكِيلُ",
+    "name_bengali": "আল-ওয়াকীল",
+    "meaning_bn": "প্রতিনিধি",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/wakil.mp3"
+  },
+  {
+    "number": 54,
+    "name_arabic": "الْقَوِيُّ",
+    "name_bengali": "আল-ক্বউইই'",
+    "meaning_bn": "শক্তিশালী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/qawi.mp3"
+  },
+  {
+    "number": 55,
+    "name_arabic": "الْمَتِينُ",
+    "name_bengali": "আল-মাতীন",
+    "meaning_bn": "সুদৃঢ়",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/matin.mp3"
+  },
+  {
+    "number": 56,
+    "name_arabic": "الْوَلِيُّ",
+    "name_bengali": "আল-ওয়ালিই'",
+    "meaning_bn": "অভিভাবক",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/wali.mp3"
+  },
+  {
+    "number": 57,
+    "name_arabic": "الْحَمِيدُ",
+    "name_bengali": "আল-হামীদ",
+    "meaning_bn": "প্রশংসিত",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/hamid.mp3"
+  },
+  {
+    "number": 58,
+    "name_arabic": "الْمُحْصِي",
+    "name_bengali": "আল-মুহসী",
+    "meaning_bn": "হিসাব-সংরক্ষণকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muhsi.mp3"
+  },
+  {
+    "number": 59,
+    "name_arabic": "الْمُبْدِئُ",
+    "name_bengali": "আল-মুব্দিই'",
+    "meaning_bn": "প্রারম্ভকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/mubdi.mp3"
+  },
+  {
+    "number": 60,
+    "name_arabic": "الْمُعِيدُ",
+    "name_bengali": "আল-মুঈ'দ",
+    "meaning_bn": "পুনরায়-সৃষ্টিকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muid.mp3"
+  },
+  {
+    "number": 61,
+    "name_arabic": "الْمُحْيِي",
+    "name_bengali": "আল-মুহ্ইয়ী",
+    "meaning_bn": "জীবন-দানকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muhyi.mp3"
+  },
+  {
+    "number": 62,
+    "name_arabic": "الْمُمِيتُ",
+    "name_bengali": "আল-মুমীত",
+    "meaning_bn": "মৃত্যু-দানকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/mumit.mp3"
+  },
+  {
+    "number": 63,
+    "name_arabic": "الْحَيُّ",
+    "name_bengali": "আল-হাইই'",
+    "meaning_bn": "চিরঞ্জীব",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/hayy.mp3"
+  },
+  {
+    "number": 64,
+    "name_arabic": "الْقَيُّومُ",
+    "name_bengali": "আল-ক্বইয়ূম",
+    "meaning_bn": "ধারক",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/qayyum.mp3"
+  },
+  {
+    "number": 65,
+    "name_arabic": "الْوَاجِدُ",
+    "name_bengali": "আল-ওয়াজিদ",
+    "meaning_bn": "লাভকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/wajid.mp3"
+  },
+  {
+    "number": 66,
+    "name_arabic": "الْمَاجِدُ",
+    "name_bengali": "আল-মাজিদ",
+    "meaning_bn": "মহিমান্বিত",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/maajid.mp3"
+  },
+  {
+    "number": 67,
+    "name_arabic": "الْوَاحِدُ",
+    "name_bengali": "আল-ওয়াহিদ",
+    "meaning_bn": "অদ্বিতীয়",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/wahid.mp3"
+  },
+  {
+    "number": 68,
+    "name_arabic": "الْأَحَد",
+    "name_bengali": "আল-আহাদ",
+    "meaning_bn": "এক",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/ahad.mp3"
+  },
+  {
+    "number": 69,
+    "name_arabic": "الصَّمَدُ",
+    "name_bengali": "আস্-সমাদ",
+    "meaning_bn": "অমুখাপেক্ষী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/samad.mp3"
+  },
+  {
+    "number": 70,
+    "name_arabic": "الْقَادِرُ",
+    "name_bengali": "আল-ক্বাদির",
+    "meaning_bn": "সর্বशक्तिমান",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/qadir.mp3"
+  },
+  {
+    "number": 71,
+    "name_arabic": "الْمُقْتَدِرُ",
+    "name_bengali": "আল-মুক্ব্তাদির",
+    "meaning_bn": "প্রভাবশালী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muqtadir.mp3"
+  },
+  {
+    "number": 72,
+    "name_arabic": "الْمُقَدِّمُ",
+    "name_bengali": "আল-মুক্বদ্দিম",
+    "meaning_bn": "অগ্রসরকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muqaddim.mp3"
+  },
+  {
+    "number": 73,
+    "name_arabic": "الْمُؤَخِّرُ",
+    "name_bengali": "আল-মুয়াক্ষখির",
+    "meaning_bn": "বিলম্বকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muakhkhir.mp3"
+  },
+  {
+    "number": 74,
+    "name_arabic": "الْأَوَّلُ",
+    "name_bengali": "আল-আউয়াল",
+    "meaning_bn": "প্রথম",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/awwal.mp3"
+  },
+  {
+    "number": 75,
+    "name_arabic": "الْآخِرُ",
+    "name_bengali": "আল-আখির",
+    "meaning_bn": "শেষ",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/akhir.mp3"
+  },
+  {
+    "number": 76,
+    "name_arabic": "الظَّاهِرُ",
+    "name_bengali": "আয্-যহির",
+    "meaning_bn": "প্রকাশ্য",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/zahir.mp3"
+  },
+  {
+    "number": 77,
+    "name_arabic": "الْبَاطِنُ",
+    "name_bengali": "আল-বাতিন",
+    "meaning_bn": "গোপন",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/batin.mp3"
+  },
+  {
+    "number": 78,
+    "name_arabic": "الْوَالِي",
+    "name_bengali": "আল-ওয়ালী",
+    "meaning_bn": "অধিপতি",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/waliy.mp3"
+  },
+  {
+    "number": 79,
+    "name_arabic": "الْمُتَعَالِي",
+    "name_bengali": "আল-মুতা'আলী",
+    "meaning_bn": "অত্যুচ্চ",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/mutaali.mp3"
+  },
+  {
+    "number": 80,
+    "name_arabic": "الْبَرُّ",
+    "name_bengali": "আল-বার",
+    "meaning_bn": "হিতৈষী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/barr.mp3"
+  },
+  {
+    "number": 81,
+    "name_arabic": "التَّوَّابُ",
+    "name_bengali": "আত-তাওয়াব",
+    "meaning_bn": "তওবা-কবুলকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/tawwab.mp3"
+  },
+  {
+    "number": 82,
+    "name_arabic": "الْمُنْتَقِمُ",
+    "name_bengali": "আল-মুনতাক্বিম",
+    "meaning_bn": "প্রতিশোধ-গ্রহণকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muntaqim.mp3"
+  },
+  {
+    "number": 83,
+    "name_arabic": "الرَّؤُوفُ",
+    "name_bengali": "আর-রউফ",
+    "meaning_bn": "পরম-স্নেহশীল",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/rauf.mp3"
+  },
+  {
+    "number": 84,
+    "name_arabic": "مَالِكُ الْمُلْكِ",
+    "name_bengali": "মালিকুল-মুলক",
+    "meaning_bn": "জগতের বাদশাহ্",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/malikul-mulk.mp3"
+  },
+  {
+    "number": 85,
+    "name_arabic": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+    "name_bengali": "যুল-জালালি-ওয়াল-ইকরাম",
+    "meaning_bn": "দয়াবান সত্তা",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/dhul-jalali-wal-ikram.mp3"
+  },
+  {
+    "number": 86,
+    "name_arabic": "الْمُقْسِطُ",
+    "name_bengali": "আল-মুক্ব্সিত",
+    "meaning_bn": "হক-আদায়কারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/muqsit.mp3"
+  },
+  {
+    "number": 87,
+    "name_arabic": "الْجَامِعُ",
+    "name_bengali": "আল-জামিই'",
+    "meaning_bn": "একত্রকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/jami.mp3"
+  },
+  {
+    "number": 88,
+    "name_arabic": "الْغَنِيُّ",
+    "name_bengali": "আল-গণিই'",
+    "meaning_bn": "অমুখাপেক্ষী ধনী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/ghani.mp3"
+  },
+  {
+    "number": 89,
+    "name_arabic": "الْمُغْنِيُ",
+    "name_bengali": "আল-মুগণিই'",
+    "meaning_bn": "অভাবমোচনকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/mughni.mp3"
+  },
+  {
+    "number": 90,
+    "name_arabic": "الْمَانِعُ",
+    "name_bengali": "আল-মানিই'",
+    "meaning_bn": "অকল্যাণরোধক",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/mani.mp3"
+  },
+  {
+    "number": 91,
+    "name_arabic": "الضَّارُّ",
+    "name_bengali": "আয্-যর",
+    "meaning_bn": "ক্ষতিসাধনকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/darr.mp3"
+  },
+  {
+    "number": 92,
+    "name_arabic": "النَّافِعُ",
+    "name_bengali": "আন্-নাফিই'",
+    "meaning_bn": "কল্যাণকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/nafi.mp3"
+  },
+  {
+    "number": 93,
+    "name_arabic": "النُّورُ",
+    "name_bengali": "আন্-নূর",
+    "meaning_bn": "পরম-আলো",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/nur.mp3"
+  },
+  {
+    "number": 94,
+    "name_arabic": "الْهَادِي",
+    "name_bengali": "আল-হাদী",
+    "meaning_bn": "পথ-প্রদর্শক",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/hadi.mp3"
+  },
+  {
+    "number": 95,
+    "name_arabic": "الْبَدِيعُ",
+    "name_bengali": "আল-বাদীই'",
+    "meaning_bn": "অতুলনীয়",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/badi.mp3"
+  },
+  {
+    "number": 96,
+    "name_arabic": "الْبَاقِي",
+    "name_bengali": "আল-বাক্বী",
+    "meaning_bn": "চিরস্থায়ী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/baqi.mp3"
+  },
+  {
+    "number": 97,
+    "name_arabic": "الْوَارِثُ",
+    "name_bengali": "আল-ওয়ারিস'",
+    "meaning_bn": "উত্তরাধিকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/warith.mp3"
+  },
+  {
+    "number": 98,
+    "name_arabic": "الرَّشِيدُ",
+    "name_bengali": "আর-রাশীদ",
+    "meaning_bn": "সঠিক পথ-প্রদর্শক",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/rashid.mp3"
+  },
+  {
+    "number": 99,
+    "name_arabic": "الصَّبُورُ",
+    "name_bengali": "আস-সবুর",
+    "meaning_bn": "ধৈর্যধারণকারী",
+    "audio": "https://islamicapi.com/audio/asma-ul-husna/sabur.mp3"
+  }
+]
