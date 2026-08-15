@@ -1,0 +1,622 @@
+{
+  "_readme": {
+    "purpose": "হৃদয়স্পর্শী আয়াত, দোয়া, হাদিস ও রিলস-স্টাইল ভিডিও রিমাইন্ডারের ডেটা — জিটহাব/জেসডেলিভার বা নেটলিফাইতে হোস্ট করে fetch() দিয়ে API হিসেবে ব্যবহার করুন",
+    "ayah_api_note": "প্রতিটি আয়াতের globalAyahIndex হলো alquran.cloud এর গ্লোবাল ইনডেক্স (১-৬২৩৬)। আপনার প্রজেক্টে আগে থেকেই এই প্যাটার্ন ব্যবহার হয়েছে: fetch(`https://api.alquran.cloud/v1/ayah/${globalAyahIndex}/quran-uthmani`) আরবি টেক্সটের জন্য, fetch(`.../ayah/${globalAyahIndex}/bn.bengali`) বাংলা অনুবাদের জন্য। তাই এখানে টেক্সট হার্ডকোড করিনি — শুধু ইনডেক্স ও রেফারেন্স রাখা হয়েছে, বাকিটা রানটাইমে API থেকে আসবে।",
+    "video_note": "videoReminders অ্যারের প্রতিটি আইটেম সম্পূর্ণ রেডি-টু-ইউজ — badge, টেক্সট/রেফারেন্স, এবং mp4Url (Mixkit-এর ফ্রি স্টক ভিডিওর সরাসরি .mp4 লিংক, কোনো হোস্টিং ছাড়াই সরাসরি <video> ট্যাগে ব্যবহারযোগ্য, Mixkit Free License-এর অধীনে — কমার্শিয়াল ব্যবহারের অনুমতি, অ্যাট্রিবিউশন লাগে না)। sourceUrl-এ Mixkit-এর আসল পেজ লিংক রাখা আছে রেফারেন্স হিসেবে। চাইলে যেকোনো আইটেমের mp4Url নিজের হোস্ট করা ভিডিও দিয়ে বদলে দেওয়া যাবে।",
+    "hadith_note": "অডিও প্রয়োজন নেই বলে হাদিসে শুধু টেক্সট ও রেফারেন্স রাখা হয়েছে।"
+  },
+  "heartTouchingAyahs": [
+    {
+      "globalAyahIndex": 255,
+      "surahBangla": "আল-বাকারা",
+      "ayahBangla": "২৫৫",
+      "theme": "আয়াতুল কুরসি — আল্লাহর মহত্ত্ব",
+      "tags": [
+        "তাওহীদ",
+        "শান্তি"
+      ]
+    },
+    {
+      "globalAyahIndex": 286,
+      "surahBangla": "আল-বাকারা",
+      "ayahBangla": "২৮৬",
+      "theme": "সাধ্যের অতিরিক্ত বোঝা আল্লাহ চাপান না",
+      "tags": [
+        "সান্ত্বনা",
+        "কষ্ট লাঘব"
+      ]
+    },
+    {
+      "globalAyahIndex": 1480,
+      "surahBangla": "ইউনুস",
+      "ayahBangla": "৬২",
+      "theme": "আল্লাহর ওলীদের কোনো ভয় নেই, দুঃখও নেই",
+      "tags": [
+        "ভরসা",
+        "নির্ভয়তা"
+      ]
+    },
+    {
+      "globalAyahIndex": 1672,
+      "surahBangla": "আর-রা'দ",
+      "ayahBangla": "২৮",
+      "theme": "আল্লাহর যিকিরে অন্তর প্রশান্ত হয়",
+      "tags": [
+        "প্রশান্তি",
+        "যিকির"
+      ]
+    },
+    {
+      "globalAyahIndex": 1782,
+      "surahBangla": "ইবরাহীম",
+      "ayahBangla": "৭",
+      "theme": "শোকর করলে নিয়ামত বাড়িয়ে দেওয়ার প্রতিশ্রুতি",
+      "tags": [
+        "শোকর",
+        "কৃতজ্ঞতা"
+      ]
+    },
+    {
+      "globalAyahIndex": 2373,
+      "surahBangla": "আল-আম্বিয়া",
+      "ayahBangla": "৮৭",
+      "theme": "ইউনুস (আঃ)-এর দোয়া — বিপদে ধৈর্য ও তাওবা",
+      "tags": [
+        "দোয়া",
+        "কষ্ট",
+        "তাওবা"
+      ]
+    },
+    {
+      "globalAyahIndex": 2674,
+      "surahBangla": "আল-ফুরকান",
+      "ayahBangla": "৬৩",
+      "theme": "রহমানের বান্দাদের বৈশিষ্ট্য — বিনয়",
+      "tags": [
+        "বিনয়",
+        "চরিত্র"
+      ]
+    },
+    {
+      "globalAyahIndex": 2762,
+      "surahBangla": "আশ-শুআরা",
+      "ayahBangla": "৮০",
+      "theme": "অসুস্থ হলে একমাত্র আল্লাহই সুস্থ করেন",
+      "tags": [
+        "অসুস্থতা",
+        "ভরসা",
+        "সুস্থতা"
+      ]
+    },
+    {
+      "globalAyahIndex": 3282,
+      "surahBangla": "ইয়াসীন",
+      "ayahBangla": "৮২",
+      "theme": "কুন ফাইয়াকুন — আল্লাহর সৃষ্টির ক্ষমতা",
+      "tags": [
+        "কুদরত",
+        "তাওহীদ"
+      ]
+    },
+    {
+      "globalAyahIndex": 3368,
+      "surahBangla": "আয-যুমার",
+      "ayahBangla": "৫৩",
+      "theme": "আল্লাহর রহমত থেকে নিরাশ হয়ো না — গুনাহগারদের জন্য আশার আয়াত",
+      "tags": [
+        "আশা",
+        "তাওবা",
+        "রহমত"
+      ]
+    },
+    {
+      "globalAyahIndex": 4107,
+      "surahBangla": "আর-রহমান",
+      "ayahBangla": "১৩",
+      "theme": "তোমরা তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে",
+      "tags": [
+        "শোকর",
+        "নিয়ামত"
+      ]
+    },
+    {
+      "globalAyahIndex": 4735,
+      "surahBangla": "আল-ইনসান",
+      "ayahBangla": "৯",
+      "theme": "শুধু আল্লাহর সন্তুষ্টির জন্য দান করা",
+      "tags": [
+        "ইখলাস",
+        "দান"
+      ]
+    },
+    {
+      "globalAyahIndex": 5199,
+      "surahBangla": "আদ-দুহা",
+      "ayahBangla": "৫",
+      "theme": "তোমার রব শীঘ্রই তোমাকে দিবেন, তুমি সন্তুষ্ট হয়ে যাবে",
+      "tags": [
+        "সান্ত্বনা",
+        "আশা"
+      ]
+    },
+    {
+      "globalAyahIndex": 5218,
+      "surahBangla": "আল-ইনশিরাহ",
+      "ayahBangla": "৫",
+      "theme": "নিশ্চয়ই কষ্টের সাথে স্বস্তি আছে",
+      "tags": [
+        "ধৈর্য",
+        "সান্ত্বনা",
+        "কষ্ট"
+      ]
+    },
+    {
+      "globalAyahIndex": 5348,
+      "surahBangla": "আল-আসর",
+      "ayahBangla": "১",
+      "theme": "সময়ের কসম — মানুষ ক্ষতির মধ্যে, ঈমান-আমল-সত্য-ধৈর্য ছাড়া",
+      "tags": [
+        "সময়",
+        "উপদেশ"
+      ]
+    }
+  ],
+  "duas": [
+    {
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "bangla": "হে আমাদের রব, আমাদেরকে দুনিয়াতে কল্যাণ দাও এবং আখিরাতেও কল্যাণ দাও, আর আমাদেরকে জাহান্নামের আযাব থেকে রক্ষা করো",
+      "source": "সূরা আল-বাকারা, আয়াত ২০১",
+      "theme": "সার্বজনীন দোয়া"
+    },
+    {
+      "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+      "bangla": "হে আমার রব, আমার বক্ষ প্রশস্ত করে দাও এবং আমার কাজ সহজ করে দাও",
+      "source": "সূরা ত্বা-হা, আয়াত ২৫-২৬",
+      "theme": "দুশ্চিন্তা ও মানসিক চাপ"
+    },
+    {
+      "arabic": "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "bangla": "তুমি ছাড়া কোনো ইলাহ নেই, তুমি পবিত্র, নিশ্চয়ই আমি সীমালঙ্ঘনকারীদের অন্তর্ভুক্ত",
+      "source": "সূরা আল-আম্বিয়া, আয়াত ৮৭ (ইউনুস আঃ-এর দোয়া)",
+      "theme": "বিপদ ও কষ্ট থেকে মুক্তি"
+    },
+    {
+      "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "bangla": "আল্লাহই আমাদের জন্য যথেষ্ট, তিনিই উত্তম কর্মবিধায়ক",
+      "source": "সূরা আলে-ইমরান, আয়াত ১৭৩",
+      "theme": "ভরসা ও নির্ভরতা"
+    },
+    {
+      "arabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+      "bangla": "হে আমার রব, আমাকে, আমার মা-বাবাকে এবং সকল মুমিনদেরকে ক্ষমা করো, যেদিন হিসাব প্রতিষ্ঠিত হবে",
+      "source": "সূরা ইবরাহীম, আয়াত ৪১",
+      "theme": "মা-বাবার জন্য দোয়া"
+    },
+    {
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+      "bangla": "হে আল্লাহ, আমি তোমার কাছে দুনিয়া ও আখিরাতে নিরাপত্তা ও সুস্থতা কামনা করছি",
+      "source": "সুনানে ইবনে মাজাহ, হাদিস নং ৩৮৫০",
+      "theme": "সুস্থতা ও নিরাপত্তা"
+    },
+    {
+      "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+      "bangla": "হে আল্লাহ, তোমার যিকির, শোকর এবং উত্তমরূপে ইবাদত করতে আমাকে সাহায্য করো",
+      "source": "সুনানে আবু দাউদ, হাদিস নং ১৫২২",
+      "theme": "ইবাদতে সহায়তা"
+    },
+    {
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً",
+      "bangla": "হে আমাদের রব, আমাদের হিদায়াত দানের পর আমাদের অন্তরকে বক্র করো না, আর তোমার পক্ষ থেকে আমাদের রহমত দান করো",
+      "source": "সূরা আলে-ইমরান, আয়াত ৮",
+      "theme": "হিদায়াতের উপর অটল থাকা"
+    }
+  ],
+  "hadiths": [
+    {
+      "textBangla": "তোমাদের মধ্যে সেই ব্যক্তিই সর্বোত্তম যার চরিত্র সবচেয়ে সুন্দর",
+      "source": "সহিহ বুখারি, হাদিস নং ৩৫৫৯",
+      "theme": "উত্তম চরিত্র"
+    },
+    {
+      "textBangla": "আল্লাহ তোমাদের চেহারা ও সম্পদের দিকে তাকান না, বরং তোমাদের অন্তর ও কর্মের দিকে তাকান",
+      "source": "সহিহ মুসলিম, হাদিস নং ২৫৬৪",
+      "theme": "ইখলাস"
+    },
+    {
+      "textBangla": "মুমিনের বিষয়টি আশ্চর্যজনক, তার সব কাজই তার জন্য কল্যাণকর — সুখে শোকর করে, কষ্টে ধৈর্য ধরে",
+      "source": "সহিহ মুসলিম, হাদিস নং ২৯৯৯",
+      "theme": "ধৈর্য ও শোকর"
+    },
+    {
+      "textBangla": "যে ব্যক্তি মানুষের প্রতি দয়া করে না, আল্লাহও তার প্রতি দয়া করেন না",
+      "source": "সহিহ বুখারি, হাদিস নং ৭৩৭৬",
+      "theme": "দয়া"
+    },
+    {
+      "textBangla": "নিশ্চয়ই আল্লাহ কোমল, তিনি কোমলতা পছন্দ করেন",
+      "source": "সহিহ মুসলিম, হাদিস নং ২৫৯৩",
+      "theme": "কোমলতা"
+    },
+    {
+      "textBangla": "তোমাদের মধ্যে কেউ ততক্ষণ পর্যন্ত পূর্ণ মুমিন হবে না, যতক্ষণ না সে তার ভাইয়ের জন্য তা-ই পছন্দ করে যা নিজের জন্য পছন্দ করে",
+      "source": "সহিহ বুখারি, হাদিস নং ১৩",
+      "theme": "ভ্রাতৃত্ব"
+    },
+    {
+      "textBangla": "দুনিয়া মুমিনের জন্য কারাগার আর কাফিরের জন্য জান্নাত",
+      "source": "সহিহ মুসলিম, হাদিস নং ২৯৫৬",
+      "theme": "দুনিয়ার প্রকৃতি"
+    },
+    {
+      "textBangla": "মা-বাবার সন্তুষ্টিতে আল্লাহর সন্তুষ্টি, আর মা-বাবার অসন্তুষ্টিতে আল্লাহর অসন্তুষ্টি",
+      "source": "জামে তিরমিযি, হাদিস নং ১৮৯৯",
+      "theme": "মা-বাবা"
+    }
+  ],
+  "videoReminders": [
+    {
+      "id": "vr-001",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 255,
+      "surahBangla": "আল-বাকারা",
+      "ayahBangla": "২৫৫",
+      "theme": "আয়াতুল কুরসি — আল্লাহর মহত্ত্ব",
+      "mp4Url": "https://assets.mixkit.co/videos/1704/1704-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/night-sky-with-stars-at-a-calm-lake-time-lapse-1704/",
+      "title": "রাতের আকাশে তারা, শান্ত হ্রদ (টাইমল্যাপস)"
+    },
+    {
+      "id": "vr-002",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 286,
+      "surahBangla": "আল-বাকারা",
+      "ayahBangla": "২৮৬",
+      "theme": "সাধ্যের অতিরিক্ত বোঝা আল্লাহ চাপান না",
+      "mp4Url": "https://assets.mixkit.co/videos/50847/50847-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/the-camera-slowly-slides-into-the-tranquil-forest-on-a-50847/",
+      "title": "রোদেলা দিনে শান্ত জঙ্গলের মধ্যে ধীর যাত্রা"
+    },
+    {
+      "id": "vr-003",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 1480,
+      "surahBangla": "ইউনুস",
+      "ayahBangla": "৬২",
+      "theme": "আল্লাহর ওলীদের কোনো ভয় নেই, দুঃখও নেই",
+      "mp4Url": "https://assets.mixkit.co/videos/41545/41545-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/flying-over-tree-covered-mountains-41545/",
+      "title": "গাছপালায় ঢাকা পাহাড়ের উপর দিয়ে উড়ে যাওয়া"
+    },
+    {
+      "id": "vr-004",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 1672,
+      "surahBangla": "আর-রা'দ",
+      "ayahBangla": "২৮",
+      "theme": "আল্লাহর যিকিরে অন্তর প্রশান্ত হয়",
+      "mp4Url": "https://assets.mixkit.co/videos/2213/2213-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/waterfall-in-forest-2213/",
+      "title": "বনের মধ্যে ঝর্ণা"
+    },
+    {
+      "id": "vr-005",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 1782,
+      "surahBangla": "ইবরাহীম",
+      "ayahBangla": "৭",
+      "theme": "শোকর করলে নিয়ামত বাড়িয়ে দেওয়ার প্রতিশ্রুতি",
+      "mp4Url": "https://assets.mixkit.co/videos/4075/4075-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/countryside-meadow-4075/",
+      "title": "গ্রামীণ সবুজ মাঠ"
+    },
+    {
+      "id": "vr-006",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 2373,
+      "surahBangla": "আল-আম্বিয়া",
+      "ayahBangla": "৮৭",
+      "theme": "ইউনুস (আঃ)-এর দোয়া — বিপদে ধৈর্য ও তাওবা",
+      "mp4Url": "https://assets.mixkit.co/videos/6806/6806-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/heavy-rain-in-slow-motion-on-the-tropical-forest-6806/",
+      "title": "গ্রীষ্মমন্ডলীয় বনে ভারী বৃষ্টি (স্লো মোশন)"
+    },
+    {
+      "id": "vr-007",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 2674,
+      "surahBangla": "আল-ফুরকান",
+      "ayahBangla": "৬৩",
+      "theme": "রহমানের বান্দাদের বৈশিষ্ট্য — বিনয়",
+      "mp4Url": "https://assets.mixkit.co/videos/95/95-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/branches-swaying-in-the-wind-95/",
+      "title": "বাতাসে গাছের ডাল দোলা"
+    },
+    {
+      "id": "vr-008",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 2762,
+      "surahBangla": "আশ-শুআরা",
+      "ayahBangla": "৮০",
+      "theme": "অসুস্থ হলে একমাত্র আল্লাহই সুস্থ করেন",
+      "mp4Url": "https://assets.mixkit.co/videos/25375/25375-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/soft-rain-and-sun-shine-25375/",
+      "title": "নরম বৃষ্টি ও রোদের ঝিলিক"
+    },
+    {
+      "id": "vr-009",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 3282,
+      "surahBangla": "ইয়াসীন",
+      "ayahBangla": "৮২",
+      "theme": "কুন ফাইয়াকুন — আল্লাহর সৃষ্টির ক্ষমতা",
+      "mp4Url": "https://assets.mixkit.co/videos/4148/4148-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/milky-way-seen-at-night-4148/",
+      "title": "রাতের আকাশে মিল্কিওয়ে"
+    },
+    {
+      "id": "vr-010",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 3368,
+      "surahBangla": "আয-যুমার",
+      "ayahBangla": "৫৩",
+      "theme": "আল্লাহর রহমত থেকে নিরাশ হয়ো না — গুনাহগারদের জন্য আশার আয়াত",
+      "mp4Url": "https://assets.mixkit.co/videos/4119/4119-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/stunning-sunset-seen-from-the-sea-4119/",
+      "title": "সমুদ্র থেকে দেখা অপূর্ব সূর্যাস্ত"
+    },
+    {
+      "id": "vr-011",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 4107,
+      "surahBangla": "আর-রহমান",
+      "ayahBangla": "১৩",
+      "theme": "তোমরা তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে",
+      "mp4Url": "https://assets.mixkit.co/videos/1164/1164-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/waves-in-the-water-1164/",
+      "title": "পানির মধ্যে ঢেউ"
+    },
+    {
+      "id": "vr-012",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 4735,
+      "surahBangla": "আল-ইনসান",
+      "ayahBangla": "৯",
+      "theme": "শুধু আল্লাহর সন্তুষ্টির জন্য দান করা",
+      "mp4Url": "https://assets.mixkit.co/videos/529/529-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/forest-stream-in-the-sunlight-529/",
+      "title": "রোদেলা বনের ঝর্ণাধারা"
+    },
+    {
+      "id": "vr-013",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 5199,
+      "surahBangla": "আদ-দুহা",
+      "ayahBangla": "৫",
+      "theme": "তোমার রব শীঘ্রই তোমাকে দিবেন, তুমি সন্তুষ্ট হয়ে যাবে",
+      "mp4Url": "https://assets.mixkit.co/videos/2168/2168-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/bright-orange-sunset-on-beach-2168/",
+      "title": "সৈকতে উজ্জ্বল কমলা সূর্যাস্ত"
+    },
+    {
+      "id": "vr-014",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 5218,
+      "surahBangla": "আল-ইনশিরাহ",
+      "ayahBangla": "৫",
+      "theme": "নিশ্চয়ই কষ্টের সাথে স্বস্তি আছে",
+      "mp4Url": "https://assets.mixkit.co/videos/22729/22729-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/gloomy-forest-full-of-trees-during-a-rainy-afternoon-22729/",
+      "title": "বৃষ্টির বিকেলে কুয়াশাচ্ছন্ন বন"
+    },
+    {
+      "id": "vr-015",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 5348,
+      "surahBangla": "আল-আসর",
+      "ayahBangla": "১",
+      "theme": "সময়ের কসম — মানুষ ক্ষতির মধ্যে, ঈমান-আমল-সত্য-ধৈর্য ছাড়া",
+      "mp4Url": "https://assets.mixkit.co/videos/40047/40047-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/skyline-of-a-desert-with-the-moon-at-night-40047/",
+      "title": "রাতে মরুভূমির আকাশে চাঁদ"
+    },
+    {
+      "id": "vr-016",
+      "type": "dua",
+      "badge": "দোয়া",
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "bangla": "হে আমাদের রব, আমাদেরকে দুনিয়াতে কল্যাণ দাও এবং আখিরাতেও কল্যাণ দাও, আর আমাদেরকে জাহান্নামের আযাব থেকে রক্ষা করো",
+      "source": "সূরা আল-বাকারা, আয়াত ২০১",
+      "theme": "সার্বজনীন দোয়া",
+      "mp4Url": "https://assets.mixkit.co/videos/4477/4477-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/view-of-the-horizon-in-the-sea-while-a-sailboat-4477/",
+      "title": "সূর্যাস্তে দিগন্তে পালতোলা নৌকা"
+    },
+    {
+      "id": "vr-017",
+      "type": "dua",
+      "badge": "দোয়া",
+      "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+      "bangla": "হে আমার রব, আমার বক্ষ প্রশস্ত করে দাও এবং আমার কাজ সহজ করে দাও",
+      "source": "সূরা ত্বা-হা, আয়াত ২৫-২৬",
+      "theme": "দুশ্চিন্তা ও মানসিক চাপ",
+      "mp4Url": "https://assets.mixkit.co/videos/18312/18312-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/rain-falling-on-the-water-of-a-lake-seen-up-18312/",
+      "title": "হ্রদের পানিতে বৃষ্টির ফোঁটা (ক্লোজ-আপ)"
+    },
+    {
+      "id": "vr-018",
+      "type": "dua",
+      "badge": "দোয়া",
+      "arabic": "لَا إِلَٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "bangla": "তুমি ছাড়া কোনো ইলাহ নেই, তুমি পবিত্র, নিশ্চয়ই আমি সীমালঙ্ঘনকারীদের অন্তর্ভুক্ত",
+      "source": "সূরা আল-আম্বিয়া, আয়াত ৮৭ (ইউনুস আঃ-এর দোয়া)",
+      "theme": "বিপদ ও কষ্ট থেকে মুক্তি",
+      "mp4Url": "https://assets.mixkit.co/videos/47948/47948-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/lightning-strike-and-thunders-47948/",
+      "title": "বজ্রপাত ও বজ্রধ্বনি"
+    },
+    {
+      "id": "vr-019",
+      "type": "dua",
+      "badge": "দোয়া",
+      "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "bangla": "আল্লাহই আমাদের জন্য যথেষ্ট, তিনিই উত্তম কর্মবিধায়ক",
+      "source": "সূরা আলে-ইমরান, আয়াত ১৭৩",
+      "theme": "ভরসা ও নির্ভরতা",
+      "mp4Url": "https://assets.mixkit.co/videos/1082/1082-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/natural-seashore-landscape-1082/",
+      "title": "প্রাকৃতিক সৈকত দৃশ্য"
+    },
+    {
+      "id": "vr-020",
+      "type": "dua",
+      "badge": "দোয়া",
+      "arabic": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+      "bangla": "হে আমার রব, আমাকে, আমার মা-বাবাকে এবং সকল মুমিনদেরকে ক্ষমা করো, যেদিন হিসাব প্রতিষ্ঠিত হবে",
+      "source": "সূরা ইবরাহীম, আয়াত ৪১",
+      "theme": "মা-বাবার জন্য দোয়া",
+      "mp4Url": "https://assets.mixkit.co/videos/4075/4075-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/countryside-meadow-4075/",
+      "title": "গ্রামীণ সবুজ মাঠ"
+    },
+    {
+      "id": "vr-021",
+      "type": "dua",
+      "badge": "দোয়া",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+      "bangla": "হে আল্লাহ, আমি তোমার কাছে দুনিয়া ও আখিরাতে নিরাপত্তা ও সুস্থতা কামনা করছি",
+      "source": "সুনানে ইবনে মাজাহ, হাদিস নং ৩৮৫০",
+      "theme": "সুস্থতা ও নিরাপত্তা",
+      "mp4Url": "https://assets.mixkit.co/videos/572/572-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/waterfall-landscape-572/",
+      "title": "ঝর্ণার দৃশ্য"
+    },
+    {
+      "id": "vr-022",
+      "type": "dua",
+      "badge": "দোয়া",
+      "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+      "bangla": "হে আল্লাহ, তোমার যিকির, শোকর এবং উত্তমরূপে ইবাদত করতে আমাকে সাহায্য করো",
+      "source": "সুনানে আবু দাউদ, হাদিস নং ১৫২২",
+      "theme": "ইবাদতে সহায়তা",
+      "mp4Url": "https://assets.mixkit.co/videos/41574/41574-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/walking-a-path-that-crosses-a-dense-forest-41574/",
+      "title": "ঘন বনের মধ্যে দিয়ে পথ চলা"
+    },
+    {
+      "id": "vr-023",
+      "type": "dua",
+      "badge": "দোয়া",
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً",
+      "bangla": "হে আমাদের রব, আমাদের হিদায়াত দানের পর আমাদের অন্তরকে বক্র করো না, আর তোমার পক্ষ থেকে আমাদের রহমত দান করো",
+      "source": "সূরা আলে-ইমরান, আয়াত ৮",
+      "theme": "হিদায়াতের উপর অটল থাকা",
+      "mp4Url": "https://assets.mixkit.co/videos/41576/41576-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/going-down-a-curved-highway-through-a-mountain-range-41576/",
+      "title": "পাহাড়ি রাস্তা দিয়ে গাড়ি চলা"
+    },
+    {
+      "id": "vr-024",
+      "type": "hadith",
+      "badge": "হাদিস",
+      "textBangla": "তোমাদের মধ্যে সেই ব্যক্তিই সর্বোত্তম যার চরিত্র সবচেয়ে সুন্দর",
+      "source": "সহিহ বুখারি, হাদিস নং ৩৫৫৯",
+      "theme": "উত্তম চরিত্র",
+      "mp4Url": "https://assets.mixkit.co/videos/40657/40657-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/meadow-covered-with-grass-and-trees-in-the-blazing-sun-40657/",
+      "title": "রোদ্রঝলমল মাঠ ও গাছপালা"
+    },
+    {
+      "id": "vr-025",
+      "type": "hadith",
+      "badge": "হাদিস",
+      "textBangla": "আল্লাহ তোমাদের চেহারা ও সম্পদের দিকে তাকান না, বরং তোমাদের অন্তর ও কর্মের দিকে তাকান",
+      "source": "সহিহ মুসলিম, হাদিস নং ২৫৬৪",
+      "theme": "ইখলাস",
+      "mp4Url": "https://assets.mixkit.co/videos/570/570-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/water-crashes-among-rocks-570/",
+      "title": "পাথরের ফাঁক দিয়ে পানির স্রোত"
+    },
+    {
+      "id": "vr-026",
+      "type": "hadith",
+      "badge": "হাদিস",
+      "textBangla": "মুমিনের বিষয়টি আশ্চর্যজনক, তার সব কাজই তার জন্য কল্যাণকর — সুখে শোকর করে, কষ্টে ধৈর্য ধরে",
+      "source": "সহিহ মুসলিম, হাদিস নং ২৯৯৯",
+      "theme": "ধৈর্য ও শোকর",
+      "mp4Url": "https://assets.mixkit.co/videos/41401/41401-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/fly-over-a-huge-canyon-covered-in-vegetation-41401/",
+      "title": "গাছপালায় ঢাকা উপত্যকার উপর দিয়ে ওড়া"
+    },
+    {
+      "id": "vr-027",
+      "type": "hadith",
+      "badge": "হাদিস",
+      "textBangla": "যে ব্যক্তি মানুষের প্রতি দয়া করে না, আল্লাহও তার প্রতি দয়া করেন না",
+      "source": "সহিহ বুখারি, হাদিস নং ৭৩৭৬",
+      "theme": "দয়া",
+      "mp4Url": "https://assets.mixkit.co/videos/2206/2206-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/raindrops-on-green-leaves-2206/",
+      "title": "সবুজ পাতায় বৃষ্টির ফোঁটা"
+    },
+    {
+      "id": "vr-028",
+      "type": "hadith",
+      "badge": "হাদিস",
+      "textBangla": "নিশ্চয়ই আল্লাহ কোমল, তিনি কোমলতা পছন্দ করেন",
+      "source": "সহিহ মুসলিম, হাদিস নং ২৫৯৩",
+      "theme": "কোমলতা",
+      "mp4Url": "https://assets.mixkit.co/videos/51110/51110-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/sun-flares-seen-under-two-trees-51110/",
+      "title": "দুই গাছের ফাঁক দিয়ে সূর্যরশ্মি"
+    },
+    {
+      "id": "vr-029",
+      "type": "hadith",
+      "badge": "হাদিস",
+      "textBangla": "তোমাদের মধ্যে কেউ ততক্ষণ পর্যন্ত পূর্ণ মুমিন হবে না, যতক্ষণ না সে তার ভাইয়ের জন্য তা-ই পছন্দ করে যা নিজের জন্য পছন্দ করে",
+      "source": "সহিহ বুখারি, হাদিস নং ১৩",
+      "theme": "ভ্রাতৃত্ব",
+      "mp4Url": "https://assets.mixkit.co/videos/86/86-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/man-walking-through-forest-86/",
+      "title": "বনের মধ্য দিয়ে হেঁটে যাওয়া"
+    },
+    {
+      "id": "vr-030",
+      "type": "hadith",
+      "badge": "হাদিস",
+      "textBangla": "দুনিয়া মুমিনের জন্য কারাগার আর কাফিরের জন্য জান্নাত",
+      "source": "সহিহ মুসলিম, হাদিস নং ২৯৫৬",
+      "theme": "দুনিয়ার প্রকৃতি",
+      "mp4Url": "https://assets.mixkit.co/videos/1610/1610-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/stars-in-space-background-1610/",
+      "title": "মহাকাশের পটভূমিতে তারা"
+    },
+    {
+      "id": "vr-031",
+      "type": "hadith",
+      "badge": "হাদিস",
+      "textBangla": "মা-বাবার সন্তুষ্টিতে আল্লাহর সন্তুষ্টি, আর মা-বাবার অসন্তুষ্টিতে আল্লাহর অসন্তুষ্টি",
+      "source": "জামে তিরমিযি, হাদিস নং ১৮৯৯",
+      "theme": "মা-বাবা",
+      "mp4Url": "https://assets.mixkit.co/videos/5039/5039-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/abundant-trees-in-a-jungle-5039/",
+      "title": "ঘন জঙ্গলের প্রচুর গাছ"
+    }
+  ]
+}
