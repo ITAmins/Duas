@@ -7,27 +7,27 @@
   },
   "heartTouchingAyahs": [
     {
-      "globalAyahIndex": 255,
-      "surahBangla": "আল-বাকারা",
-      "ayahBangla": "২৫৫",
-      "theme": "আয়াতুল কুরসি — আল্লাহর মহত্ত্ব",
+      "globalAyahIndex": 159,
+      "surahBangla": "বাকারা",
+      "ayahBangla": "১৫২",
+      "theme": "আল্লাহকে স্মরণ করলে আল্লাহও স্মরণ করেন",
       "tags": [
-        "তাওহীদ",
-        "শান্তি"
+        "যিকির",
+        "কৃতজ্ঞতা"
       ]
     },
     {
-      "globalAyahIndex": 286,
-      "surahBangla": "আল-বাকারা",
-      "ayahBangla": "২৮৬",
-      "theme": "সাধ্যের অতিরিক্ত বোঝা আল্লাহ চাপান না",
+      "globalAyahIndex": 6102,
+      "surahBangla": "আত-তীন",
+      "ayahBangla": "৪",
+      "theme": "মানুষ সৃষ্টি হয়েছে সর্বোত্তম গঠনে",
       "tags": [
-        "সান্ত্বনা",
-        "কষ্ট লাঘব"
+        "আত্মমর্যাদা",
+        "সৃষ্টি"
       ]
     },
     {
-      "globalAyahIndex": 1480,
+      "globalAyahIndex": 1426,
       "surahBangla": "ইউনুস",
       "ayahBangla": "৬২",
       "theme": "আল্লাহর ওলীদের কোনো ভয় নেই, দুঃখও নেই",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "globalAyahIndex": 1672,
+      "globalAyahIndex": 1735,
       "surahBangla": "আর-রা'দ",
       "ayahBangla": "২৮",
       "theme": "আল্লাহর যিকিরে অন্তর প্রশান্ত হয়",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "globalAyahIndex": 1782,
+      "globalAyahIndex": 1757,
       "surahBangla": "ইবরাহীম",
       "ayahBangla": "৭",
       "theme": "শোকর করলে নিয়ামত বাড়িয়ে দেওয়ার প্রতিশ্রুতি",
@@ -57,18 +57,17 @@
       ]
     },
     {
-      "globalAyahIndex": 2373,
-      "surahBangla": "আল-আম্বিয়া",
-      "ayahBangla": "৮৭",
-      "theme": "ইউনুস (আঃ)-এর দোয়া — বিপদে ধৈর্য ও তাওবা",
+      "globalAyahIndex": 1224,
+      "surahBangla": "আল-আনফাল",
+      "ayahBangla": "৬৪",
+      "theme": "আল্লাহই যথেষ্ট, তাঁর উপর ভরসা করাই যথেষ্ট",
       "tags": [
-        "দোয়া",
-        "কষ্ট",
-        "তাওবা"
+        "ভরসা",
+        "যথেষ্টতা"
       ]
     },
     {
-      "globalAyahIndex": 2674,
+      "globalAyahIndex": 2918,
       "surahBangla": "আল-ফুরকান",
       "ayahBangla": "৬৩",
       "theme": "রহমানের বান্দাদের বৈশিষ্ট্য — বিনয়",
@@ -78,7 +77,7 @@
       ]
     },
     {
-      "globalAyahIndex": 2762,
+      "globalAyahIndex": 3012,
       "surahBangla": "আশ-শুআরা",
       "ayahBangla": "৮০",
       "theme": "অসুস্থ হলে একমাত্র আল্লাহই সুস্থ করেন",
@@ -89,7 +88,7 @@
       ]
     },
     {
-      "globalAyahIndex": 3282,
+      "globalAyahIndex": 3787,
       "surahBangla": "ইয়াসীন",
       "ayahBangla": "৮২",
       "theme": "কুন ফাইয়াকুন — আল্লাহর সৃষ্টির ক্ষমতা",
@@ -99,18 +98,17 @@
       ]
     },
     {
-      "globalAyahIndex": 3368,
-      "surahBangla": "আয-যুমার",
-      "ayahBangla": "৫৩",
-      "theme": "আল্লাহর রহমত থেকে নিরাশ হয়ো না — গুনাহগারদের জন্য আশার আয়াত",
+      "globalAyahIndex": 4863,
+      "surahBangla": "আল-কামার",
+      "ayahBangla": "১৭",
+      "theme": "কুরআন উপদেশ গ্রহণের জন্য সহজ করে দেওয়া হয়েছে",
       "tags": [
-        "আশা",
-        "তাওবা",
-        "রহমত"
+        "উপদেশ",
+        "জাগরণ"
       ]
     },
     {
-      "globalAyahIndex": 4107,
+      "globalAyahIndex": 4914,
       "surahBangla": "আর-রহমান",
       "ayahBangla": "১৩",
       "theme": "তোমরা তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে",
@@ -120,7 +118,7 @@
       ]
     },
     {
-      "globalAyahIndex": 4735,
+      "globalAyahIndex": 5600,
       "surahBangla": "আল-ইনসান",
       "ayahBangla": "৯",
       "theme": "শুধু আল্লাহর সন্তুষ্টির জন্য দান করা",
@@ -130,7 +128,7 @@
       ]
     },
     {
-      "globalAyahIndex": 5199,
+      "globalAyahIndex": 6084,
       "surahBangla": "আদ-দুহা",
       "ayahBangla": "৫",
       "theme": "তোমার রব শীঘ্রই তোমাকে দিবেন, তুমি সন্তুষ্ট হয়ে যাবে",
@@ -140,7 +138,7 @@
       ]
     },
     {
-      "globalAyahIndex": 5218,
+      "globalAyahIndex": 6095,
       "surahBangla": "আল-ইনশিরাহ",
       "ayahBangla": "৫",
       "theme": "নিশ্চয়ই কষ্টের সাথে স্বস্তি আছে",
@@ -151,13 +149,112 @@
       ]
     },
     {
-      "globalAyahIndex": 5348,
+      "globalAyahIndex": 6177,
       "surahBangla": "আল-আসর",
       "ayahBangla": "১",
       "theme": "সময়ের কসম — মানুষ ক্ষতির মধ্যে, ঈমান-আমল-সত্য-ধৈর্য ছাড়া",
       "tags": [
         "সময়",
         "উপদেশ"
+      ]
+    },
+    {
+      "globalAyahIndex": 521,
+      "surahBangla": "আন-নিসা",
+      "ayahBangla": "২৮",
+      "theme": "আল্লাহ তোমাদের কষ্ট লাঘব করতে চান",
+      "tags": [
+        "সান্ত্বনা",
+        "সহজতা"
+      ]
+    },
+    {
+      "globalAyahIndex": 2590,
+      "surahBangla": "আল-আম্বিয়া",
+      "ayahBangla": "১০৭",
+      "theme": "রাসূল বিশ্বজগতের জন্য রহমতস্বরূপ",
+      "tags": [
+        "রহমত",
+        "নবী"
+      ]
+    },
+    {
+      "globalAyahIndex": 3409,
+      "surahBangla": "আল-আনকাবুত",
+      "ayahBangla": "৬৯",
+      "theme": "আল্লাহর পথে সংগ্রামকারীকে আল্লাহ পথ দেখান",
+      "tags": [
+        "সংগ্রাম",
+        "হিদায়াত"
+      ]
+    },
+    {
+      "globalAyahIndex": 4823,
+      "surahBangla": "আন-নাজম",
+      "ayahBangla": "৩৯",
+      "theme": "মানুষ তা-ই পায় যার জন্য সে চেষ্টা করে",
+      "tags": [
+        "প্রচেষ্টা",
+        "কর্মফল"
+      ]
+    },
+    {
+      "globalAyahIndex": 6222,
+      "surahBangla": "আল-ইখলাস",
+      "ayahBangla": "১",
+      "theme": "আল্লাহ এক, অদ্বিতীয়",
+      "tags": [
+        "তাওহীদ"
+      ]
+    },
+    {
+      "globalAyahIndex": 4731,
+      "surahBangla": "আয-যারিয়াত",
+      "ayahBangla": "৫৬",
+      "theme": "সৃষ্টির উদ্দেশ্য — একমাত্র আল্লাহর ইবাদত",
+      "tags": [
+        "ইবাদত",
+        "উদ্দেশ্য"
+      ]
+    },
+    {
+      "globalAyahIndex": 1919,
+      "surahBangla": "আন-নাহল",
+      "ayahBangla": "১৮",
+      "theme": "আল্লাহর নিয়ামত অগণিত",
+      "tags": [
+        "নিয়ামত",
+        "ক্ষমা"
+      ]
+    },
+    {
+      "globalAyahIndex": 6007,
+      "surahBangla": "আল-ফজর",
+      "ayahBangla": "১৪",
+      "theme": "আল্লাহ সদা সজাগ, সতর্ক দৃষ্টিতে অপেক্ষমাণ",
+      "tags": [
+        "সতর্কতা",
+        "ন্যায়"
+      ]
+    },
+    {
+      "globalAyahIndex": 1858,
+      "surahBangla": "আল-হিজর",
+      "ayahBangla": "৫৬",
+      "theme": "বিভ্রান্তরাই আল্লাহর রহমত থেকে নিরাশ হয়",
+      "tags": [
+        "আশা",
+        "রহমত"
+      ]
+    },
+    {
+      "globalAyahIndex": 52,
+      "surahBangla": "আল-বাকারা",
+      "ayahBangla": "৪৫",
+      "theme": "ধৈর্য ও নামাজই আসল সহায়",
+      "tags": [
+        "ধৈর্য",
+        "নামাজ"
       ]
     }
   ],
@@ -258,10 +355,10 @@
       "id": "vr-001",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 255,
-      "surahBangla": "আল-বাকারা",
-      "ayahBangla": "২৫৫",
-      "theme": "আয়াতুল কুরসি — আল্লাহর মহত্ত্ব",
+      "globalAyahIndex": 159,
+      "surahBangla": "বাকারা",
+      "ayahBangla": "১৫২",
+      "theme": "আল্লাহকে স্মরণ করলে আল্লাহও স্মরণ করেন",
       "mp4Url": "https://assets.mixkit.co/videos/1704/1704-720.mp4",
       "sourceUrl": "https://mixkit.co/free-stock-video/night-sky-with-stars-at-a-calm-lake-time-lapse-1704/",
       "title": "রাতের আকাশে তারা, শান্ত হ্রদ (টাইমল্যাপস)"
@@ -270,10 +367,10 @@
       "id": "vr-002",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 286,
-      "surahBangla": "আল-বাকারা",
-      "ayahBangla": "২৮৬",
-      "theme": "সাধ্যের অতিরিক্ত বোঝা আল্লাহ চাপান না",
+      "globalAyahIndex": 6102,
+      "surahBangla": "আত-তীন",
+      "ayahBangla": "৪",
+      "theme": "মানুষ সৃষ্টি হয়েছে সর্বোত্তম গঠনে",
       "mp4Url": "https://assets.mixkit.co/videos/50847/50847-720.mp4",
       "sourceUrl": "https://mixkit.co/free-stock-video/the-camera-slowly-slides-into-the-tranquil-forest-on-a-50847/",
       "title": "রোদেলা দিনে শান্ত জঙ্গলের মধ্যে ধীর যাত্রা"
@@ -282,7 +379,7 @@
       "id": "vr-003",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 1480,
+      "globalAyahIndex": 1426,
       "surahBangla": "ইউনুস",
       "ayahBangla": "৬২",
       "theme": "আল্লাহর ওলীদের কোনো ভয় নেই, দুঃখও নেই",
@@ -294,7 +391,7 @@
       "id": "vr-004",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 1672,
+      "globalAyahIndex": 1735,
       "surahBangla": "আর-রা'দ",
       "ayahBangla": "২৮",
       "theme": "আল্লাহর যিকিরে অন্তর প্রশান্ত হয়",
@@ -306,7 +403,7 @@
       "id": "vr-005",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 1782,
+      "globalAyahIndex": 1757,
       "surahBangla": "ইবরাহীম",
       "ayahBangla": "৭",
       "theme": "শোকর করলে নিয়ামত বাড়িয়ে দেওয়ার প্রতিশ্রুতি",
@@ -318,10 +415,10 @@
       "id": "vr-006",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 2373,
-      "surahBangla": "আল-আম্বিয়া",
-      "ayahBangla": "৮৭",
-      "theme": "ইউনুস (আঃ)-এর দোয়া — বিপদে ধৈর্য ও তাওবা",
+      "globalAyahIndex": 1224,
+      "surahBangla": "আল-আনফাল",
+      "ayahBangla": "৬৪",
+      "theme": "আল্লাহই যথেষ্ট, তাঁর উপর ভরসা করাই যথেষ্ট",
       "mp4Url": "https://assets.mixkit.co/videos/6806/6806-720.mp4",
       "sourceUrl": "https://mixkit.co/free-stock-video/heavy-rain-in-slow-motion-on-the-tropical-forest-6806/",
       "title": "গ্রীষ্মমন্ডলীয় বনে ভারী বৃষ্টি (স্লো মোশন)"
@@ -330,7 +427,7 @@
       "id": "vr-007",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 2674,
+      "globalAyahIndex": 2918,
       "surahBangla": "আল-ফুরকান",
       "ayahBangla": "৬৩",
       "theme": "রহমানের বান্দাদের বৈশিষ্ট্য — বিনয়",
@@ -342,7 +439,7 @@
       "id": "vr-008",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 2762,
+      "globalAyahIndex": 3012,
       "surahBangla": "আশ-শুআরা",
       "ayahBangla": "৮০",
       "theme": "অসুস্থ হলে একমাত্র আল্লাহই সুস্থ করেন",
@@ -354,7 +451,7 @@
       "id": "vr-009",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 3282,
+      "globalAyahIndex": 3787,
       "surahBangla": "ইয়াসীন",
       "ayahBangla": "৮২",
       "theme": "কুন ফাইয়াকুন — আল্লাহর সৃষ্টির ক্ষমতা",
@@ -366,10 +463,10 @@
       "id": "vr-010",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 3368,
-      "surahBangla": "আয-যুমার",
-      "ayahBangla": "৫৩",
-      "theme": "আল্লাহর রহমত থেকে নিরাশ হয়ো না — গুনাহগারদের জন্য আশার আয়াত",
+      "globalAyahIndex": 4863,
+      "surahBangla": "আল-কামার",
+      "ayahBangla": "১৭",
+      "theme": "কুরআন উপদেশ গ্রহণের জন্য সহজ করে দেওয়া হয়েছে",
       "mp4Url": "https://assets.mixkit.co/videos/4119/4119-720.mp4",
       "sourceUrl": "https://mixkit.co/free-stock-video/stunning-sunset-seen-from-the-sea-4119/",
       "title": "সমুদ্র থেকে দেখা অপূর্ব সূর্যাস্ত"
@@ -378,7 +475,7 @@
       "id": "vr-011",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 4107,
+      "globalAyahIndex": 4914,
       "surahBangla": "আর-রহমান",
       "ayahBangla": "১৩",
       "theme": "তোমরা তোমাদের রবের কোন কোন নিয়ামত অস্বীকার করবে",
@@ -390,7 +487,7 @@
       "id": "vr-012",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 4735,
+      "globalAyahIndex": 5600,
       "surahBangla": "আল-ইনসান",
       "ayahBangla": "৯",
       "theme": "শুধু আল্লাহর সন্তুষ্টির জন্য দান করা",
@@ -402,7 +499,7 @@
       "id": "vr-013",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 5199,
+      "globalAyahIndex": 6084,
       "surahBangla": "আদ-দুহা",
       "ayahBangla": "৫",
       "theme": "তোমার রব শীঘ্রই তোমাকে দিবেন, তুমি সন্তুষ্ট হয়ে যাবে",
@@ -414,7 +511,7 @@
       "id": "vr-014",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 5218,
+      "globalAyahIndex": 6095,
       "surahBangla": "আল-ইনশিরাহ",
       "ayahBangla": "৫",
       "theme": "নিশ্চয়ই কষ্টের সাথে স্বস্তি আছে",
@@ -426,7 +523,7 @@
       "id": "vr-015",
       "type": "quran",
       "badge": "কুরআন",
-      "globalAyahIndex": 5348,
+      "globalAyahIndex": 6177,
       "surahBangla": "আল-আসর",
       "ayahBangla": "১",
       "theme": "সময়ের কসম — মানুষ ক্ষতির মধ্যে, ঈমান-আমল-সত্য-ধৈর্য ছাড়া",
@@ -617,6 +714,126 @@
       "mp4Url": "https://assets.mixkit.co/videos/5039/5039-720.mp4",
       "sourceUrl": "https://mixkit.co/free-stock-video/abundant-trees-in-a-jungle-5039/",
       "title": "ঘন জঙ্গলের প্রচুর গাছ"
+    },
+    {
+      "id": "vr-032",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 521,
+      "surahBangla": "আন-নিসা",
+      "ayahBangla": "২৮",
+      "theme": "আল্লাহ তোমাদের কষ্ট লাঘব করতে চান",
+      "mp4Url": "https://assets.mixkit.co/videos/25375/25375-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/soft-rain-and-sun-shine-25375/",
+      "title": "নরম বৃষ্টি ও রোদের ঝিলিক"
+    },
+    {
+      "id": "vr-033",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 2590,
+      "surahBangla": "আল-আম্বিয়া",
+      "ayahBangla": "১০৭",
+      "theme": "রাসূল বিশ্বজগতের জন্য রহমতস্বরূপ",
+      "mp4Url": "https://assets.mixkit.co/videos/4119/4119-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/stunning-sunset-seen-from-the-sea-4119/",
+      "title": "সমুদ্র থেকে দেখা অপূর্ব সূর্যাস্ত"
+    },
+    {
+      "id": "vr-034",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 3409,
+      "surahBangla": "আল-আনকাবুত",
+      "ayahBangla": "৬৯",
+      "theme": "আল্লাহর পথে সংগ্রামকারীকে আল্লাহ পথ দেখান",
+      "mp4Url": "https://assets.mixkit.co/videos/41576/41576-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/going-down-a-curved-highway-through-a-mountain-range-41576/",
+      "title": "পাহাড়ি রাস্তা দিয়ে গাড়ি চলা"
+    },
+    {
+      "id": "vr-035",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 4823,
+      "surahBangla": "আন-নাজম",
+      "ayahBangla": "৩৯",
+      "theme": "মানুষ তা-ই পায় যার জন্য সে চেষ্টা করে",
+      "mp4Url": "https://assets.mixkit.co/videos/41401/41401-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/fly-over-a-huge-canyon-covered-in-vegetation-41401/",
+      "title": "গাছপালায় ঢাকা উপত্যকার উপর দিয়ে ওড়া"
+    },
+    {
+      "id": "vr-036",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 6222,
+      "surahBangla": "আল-ইখলাস",
+      "ayahBangla": "১",
+      "theme": "আল্লাহ এক, অদ্বিতীয়",
+      "mp4Url": "https://assets.mixkit.co/videos/40657/40657-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/meadow-covered-with-grass-and-trees-in-the-blazing-sun-40657/",
+      "title": "রোদ্রঝলমল মাঠ ও গাছপালা"
+    },
+    {
+      "id": "vr-037",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 4731,
+      "surahBangla": "আয-যারিয়াত",
+      "ayahBangla": "৫৬",
+      "theme": "সৃষ্টির উদ্দেশ্য — একমাত্র আল্লাহর ইবাদত",
+      "mp4Url": "https://assets.mixkit.co/videos/1610/1610-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/stars-in-space-background-1610/",
+      "title": "মহাকাশের পটভূমিতে তারা"
+    },
+    {
+      "id": "vr-038",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 1919,
+      "surahBangla": "আন-নাহল",
+      "ayahBangla": "১৮",
+      "theme": "আল্লাহর নিয়ামত অগণিত",
+      "mp4Url": "https://assets.mixkit.co/videos/4148/4148-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/milky-way-seen-at-night-4148/",
+      "title": "রাতের আকাশে মিল্কিওয়ে"
+    },
+    {
+      "id": "vr-039",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 6007,
+      "surahBangla": "আল-ফজর",
+      "ayahBangla": "১৪",
+      "theme": "আল্লাহ সদা সজাগ, সতর্ক দৃষ্টিতে অপেক্ষমাণ",
+      "mp4Url": "https://assets.mixkit.co/videos/2168/2168-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/bright-orange-sunset-on-beach-2168/",
+      "title": "সৈকতে উজ্জ্বল কমলা সূর্যাস্ত"
+    },
+    {
+      "id": "vr-040",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 1858,
+      "surahBangla": "আল-হিজর",
+      "ayahBangla": "৫৬",
+      "theme": "বিভ্রান্তরাই আল্লাহর রহমত থেকে নিরাশ হয়",
+      "mp4Url": "https://assets.mixkit.co/videos/6806/6806-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/heavy-rain-in-slow-motion-on-the-tropical-forest-6806/",
+      "title": "গ্রীষ্মমন্ডলীয় বনে ভারী বৃষ্টি (স্লো মোশন)"
+    },
+    {
+      "id": "vr-041",
+      "type": "quran",
+      "badge": "কুরআন",
+      "globalAyahIndex": 52,
+      "surahBangla": "আল-বাকারা",
+      "ayahBangla": "৪৫",
+      "theme": "ধৈর্য ও নামাজই আসল সহায়",
+      "mp4Url": "https://assets.mixkit.co/videos/570/570-720.mp4",
+      "sourceUrl": "https://mixkit.co/free-stock-video/water-crashes-among-rocks-570/",
+      "title": "পাথরের ফাঁক দিয়ে পানির স্রোত"
     }
   ]
 }
